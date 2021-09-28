@@ -1,0 +1,55 @@
+/* 
+    Document   : newcssmenu
+    Created on : 4/02/2011, 11:05:04 AM
+    Author     : jcantu
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+#caja_menu{
+    font: 11px normal Verdana, Arial, Helvetica, sans-serif;
+}
+ol#topnav {
+    margin: 0; padding: 0;
+    float: left;
+    width: 1000px;
+    height: 34px;
+    list-style: none;
+    position: relative;
+    background: url(top_back_active.jpg) repeat-x;
+}
+ol#topnav li {
+    float: left;
+    margin: 0; padding: 0;
+    border-right: 1px solid #023A8D;
+}
+ol#topnav li a {
+    padding: 10px 15px;
+    display: block;
+    color: #f0f0f0;
+    text-decoration: none;
+}
+ol#topnav li:hover { background: #1376c9 url(topnav_stretch.gif) repeat-x; }
+ol#topnav li span {
+    float: left;
+    padding: 10px 0;
+    position: absolute;
+    left: 0; top:34px;
+    display: none;
+    width: 1000px;
+    background: #023A8D;
+    color: #fff;
+    -moz-border-radius-bottomright: 5px;
+    -khtml-border-radius-bottomright: 5px;
+    -webkit-border-bottom-right-radius: 5px;
+    -moz-border-radius-bottomleft: 5px;
+    -khtml-border-radius-bottomleft: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+}
+ol#topnav li:hover span { display: block; }
+ol#topnav li span a { display: inline; }
+ol#topnav li span a:hover {text-decoration: underline;}

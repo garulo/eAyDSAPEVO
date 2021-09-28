@@ -1,0 +1,72 @@
+26-Jul-2021 09:07:23.187 INFO [http-nio-8080-exec-242] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+26-Jul-2021 09:07:23.882 INFO [http-nio-8080-exec-242] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Jul-2021 09:07:23.885 INFO [http-nio-8080-exec-242] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+26-Jul-2021 09:20:25.308 INFO [http-nio-8080-exec-251] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+26-Jul-2021 09:20:25.798 INFO [http-nio-8080-exec-251] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Jul-2021 09:20:25.807 INFO [http-nio-8080-exec-251] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+26-Jul-2021 09:31:43.154 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+26-Jul-2021 09:31:43.155 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+26-Jul-2021 09:31:43.419 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["https-openssl-nio-8443"]
+26-Jul-2021 09:31:43.648 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Jul-2021 09:31:43.708 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+26-Jul-2021 09:31:43.710 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["https-openssl-nio-8443"]
+26-Jul-2021 09:31:43.713 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+26-Jul-2021 09:31:43.714 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["https-openssl-nio-8443"]
+26-Jul-2021 19:16:32.630 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.36
+26-Jul-2021 19:16:32.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 3 2020 17:07:09 UTC
+26-Jul-2021 19:16:32.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.36.0
+26-Jul-2021 19:16:32.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+26-Jul-2021 19:16:32.668 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+26-Jul-2021 19:16:32.668 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+26-Jul-2021 19:16:32.668 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_221\jre
+26-Jul-2021 19:16:32.668 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_221-b11
+26-Jul-2021 19:16:32.668 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+26-Jul-2021 19:16:32.668 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36
+26-Jul-2021 19:16:32.668 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36
+26-Jul-2021 19:16:32.743 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\conf\logging.properties
+26-Jul-2021 19:16:32.744 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+26-Jul-2021 19:16:32.744 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+26-Jul-2021 19:16:32.744 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+26-Jul-2021 19:16:32.744 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+26-Jul-2021 19:16:32.744 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36
+26-Jul-2021 19:16:32.744 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36
+26-Jul-2021 19:16:32.744 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\temp
+26-Jul-2021 19:16:32.744 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+26-Jul-2021 19:16:32.745 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+26-Jul-2021 19:16:32.745 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+26-Jul-2021 19:16:32.764 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+26-Jul-2021 19:16:34.398 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+26-Jul-2021 19:16:34.907 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["https-openssl-nio-8443"]
+26-Jul-2021 19:16:35.689 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [3,749] milliseconds
+26-Jul-2021 19:16:35.807 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+26-Jul-2021 19:16:35.807 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.36]
+26-Jul-2021 19:16:35.820 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\conf\Catalina\localhost\eAyd.xml]
+26-Jul-2021 19:16:35.856 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/eAyd] in deployment descriptor [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\conf\Catalina\localhost\eAyd.xml] has been ignored
+26-Jul-2021 19:16:37.430 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Jul-2021 19:16:37.560 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\conf\Catalina\localhost\eAyd.xml] has finished in [1,740] ms
+26-Jul-2021 19:16:37.561 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\docs]
+26-Jul-2021 19:16:37.631 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\docs] has finished in [70] ms
+26-Jul-2021 19:16:37.632 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\examples]
+26-Jul-2021 19:16:39.584 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\examples] has finished in [1,953] ms
+26-Jul-2021 19:16:39.584 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\host-manager]
+26-Jul-2021 19:16:39.686 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\host-manager] has finished in [102] ms
+26-Jul-2021 19:16:39.686 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\manager]
+26-Jul-2021 19:16:39.760 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\manager] has finished in [74] ms
+26-Jul-2021 19:16:39.760 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\ROOT]
+26-Jul-2021 19:16:39.797 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\ROOT] has finished in [37] ms
+26-Jul-2021 19:16:39.802 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+26-Jul-2021 19:16:39.811 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["https-openssl-nio-8443"]
+26-Jul-2021 19:16:39.814 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4,124] milliseconds
+26-Jul-2021 19:16:41.718 INFO [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/eAyd]
+26-Jul-2021 19:16:42.565 INFO [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\conf\Catalina\localhost\eAyd.xml]
+26-Jul-2021 19:16:42.567 WARNING [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/eAyd] in deployment descriptor [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\conf\Catalina\localhost\eAyd.xml] has been ignored
+26-Jul-2021 19:16:42.928 INFO [http-nio-8080-exec-3] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+26-Jul-2021 19:16:42.933 INFO [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\conf\Catalina\localhost\eAyd.xml] has finished in [368] ms
+26-Jul-2021 19:20:19.586 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+26-Jul-2021 19:20:19.586 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+26-Jul-2021 19:20:19.825 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["https-openssl-nio-8443"]
+26-Jul-2021 19:20:20.040 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+26-Jul-2021 19:20:20.077 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+26-Jul-2021 19:20:20.079 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["https-openssl-nio-8443"]
+26-Jul-2021 19:20:20.081 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+26-Jul-2021 19:20:20.082 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["https-openssl-nio-8443"]

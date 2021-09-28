@@ -1,0 +1,381 @@
+04-Aug-2021 00:19:20.638 SEVERE [https-openssl-nio-8443-exec-482] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception
+	java.io.IOException: An exception occurred processing [/ReturnCheckOutEVO.jsp] at line [56]
+
+53:         }
+54: 
+55:         try (BufferedReader bdata = new BufferedReader(
+56:                 new InputStreamReader(conUpdateReferencia.getInputStream(), "utf-8"))) {
+57:             String jsondata = new String();
+58:             InputStream inputStreamdata = conUpdateReferencia.getInputStream();
+59:             BufferedReader bufferedReaderdata = new BufferedReader(new InputStreamReader(inputStreamdata), 1);
+
+
+Stacktrace:
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:505)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.io.IOException: Server returned HTTP response code: 500 for URL: https://ayd.sadm.gob.mx/AppiDv3/UpdateReferenciaSQL
+		at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+		at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+		at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+		at org.apache.jsp.ReturnCheckOutEVO_jsp._jspService(ReturnCheckOutEVO_jsp.java:201)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:477)
+		... 25 more
+04-Aug-2021 11:20:00.288 SEVERE [https-openssl-nio-8443-exec-494] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [670] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [687] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [688] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [670] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [687] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [688] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:103)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:528)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:392)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:362)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:346)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:605)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:400)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+04-Aug-2021 11:21:03.292 SEVERE [https-openssl-nio-8443-exec-496] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [670] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [687] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [688] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [670] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [687] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [688] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:103)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:528)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:392)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:362)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:346)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:605)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:400)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+04-Aug-2021 11:23:16.513 SEVERE [https-openssl-nio-8443-exec-496] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [669] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [686] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [687] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [669] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [686] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [687] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:103)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:528)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:392)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:362)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:346)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:605)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:400)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+04-Aug-2021 11:27:44.872 SEVERE [https-openssl-nio-8443-exec-497] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [670] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [687] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [688] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [670] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [687] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [688] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:103)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:528)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:392)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:362)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:346)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:605)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:400)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+04-Aug-2021 11:28:31.497 SEVERE [https-openssl-nio-8443-exec-496] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [670] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [687] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [688] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [670] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error, insert "}" to complete Block
+
+An error occurred at line: [687] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error on token "}", delete this token
+
+An error occurred at line: [688] in the generated java file: [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\work\Catalina\localhost\eAyd\org\apache\jsp\ReturnCheckOutEVO_jsp.java]
+Syntax error, insert "}" to complete ClassBody
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:103)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:528)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:392)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:362)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:346)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:605)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:400)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+04-Aug-2021 14:28:53.573 SEVERE [https-openssl-nio-8443-exec-496] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception
+	java.io.IOException: An exception occurred processing [/ReturnCheckOutEVO.jsp] at line [149]
+
+146:             conRetrive.setRequestProperty("Authorization", "Bearer " + session.getAttribute("token"));
+147: 
+148:             try (BufferedReader bdata = new BufferedReader(
+149:                     new InputStreamReader(conRetrive.getInputStream(), "utf-8"))) {
+150:                 String jsondata = new String();
+151:                 InputStream inputStreamdata = conRetrive.getInputStream();
+152:                 BufferedReader bufferedReaderdata = new BufferedReader(new InputStreamReader(inputStreamdata), 1);
+
+
+Stacktrace:
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:505)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.io.FileNotFoundException: https://ayd.sadm.gob.mx/appiDv3/Retrive
+		at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1896)
+		at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+		at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+		at org.apache.jsp.ReturnCheckOutEVO_jsp._jspService(ReturnCheckOutEVO_jsp.java:308)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:477)
+		... 25 more

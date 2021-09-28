@@ -1,0 +1,210 @@
+/*
+    Estilos 2018 
+    Fecha de Inicio: Martes 12 de Junio del 2018 a las 14:44pm
+*/
+html{
+    position: relative !important;
+    margin: 0px !important;
+    padding: 0px !important;
+    height: 100%;
+}
+body{
+    font-family: "Roboto" !important;
+    position: relative !important;
+    overflow-x: hidden;
+    padding: 120px 0px 0px 0px;
+    margin: 0 !important;
+    height: 100%;
+}
+.fbottom{
+    bottom: 0px !important;
+    width: 100% !important;
+}
+.sombra{
+     -webkit-box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3);
+          box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3);
+}
+.container{
+    background-color: #FFF !important;
+}
+.clearx{
+    clear: both !important;
+}
+p{
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+}
+#contenedor-menu{
+    background-color: #FFF;
+}
+#logo-ayd{
+    max-width: 120px;
+}
+nav ul li a{
+    color:#222222 !important;
+    font-family: Roboto, sans-serif;
+    font-size: 15px !important;
+    line-height: 30px;
+    vertical-align: baseline;
+    letter-spacing: normal;
+    word-spacing: 0px;
+    font-weight: 300;
+    font-style: normal;
+}
+nav form a{
+    padding: 0px 1rem;
+    text-decoration: none;
+}
+nav form a:hover{
+    text-decoration: none;
+}
+nav ul li{
+    transition: background-color .3s ease;
+}
+nav ul li:hover{
+    background-color: #F1F3F7;
+}
+header2{
+    background-color: #FFF !important;
+}
+.bg-white{
+    background-color: #FFF !important;
+}
+.login-container{
+    background-color: #F1F3F7;
+    border: 1px solid #EAEAEA;
+    border-radius: 7px;
+}
+.login-container a{
+    font-weight: 300;
+}
+.btn-outline-secondary{
+    background-color: #FFF !important;
+    border: 1px solid #0093d0 !important;
+    color: #0093d0 !important;
+}
+.btn-outline-secondary:hover{
+    background-color: #6857C0 !important;
+    color:#FFF !important;
+}
+#no-registrado h3{
+    border-bottom: 2px solid #0056B3;
+    display: inline-block;
+}
+#no-registrado p{
+    color: #3c4858;
+    font-weight: 300;
+}
+#no-registrado ul li{
+    color: #8492a6;
+    font-weight: 300;
+}
+.btn-outline-secondary2{
+    background-color: #3898EC !important;
+    border: 1px solid #0093d0 !important;
+    color: #FFF !important;
+}
+.btn-outline-secondary2:hover{
+    background-color: #6857C0 !important;
+    color:#FFF !important;
+}
+#menu-lateral a{
+    color: #007bff !important;
+    font-weight: 300 !important;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+#menu-lateral a:hover{
+    text-decoration: none;
+}
+#header-card{
+    color: #3c4858;
+}
+#header-card label{
+    font-weight: 700;
+    color: #3c4858;
+}
+input#email2.form-control,
+input#nombre2.form-control{
+    color: #3c4858;
+    font-weight: 300;
+    
+    
+}
+input{
+    font-weight: 300;
+}
+#tabla_servicios1 tr td{
+    color: #3c4858;
+    font-weight: 300;
+}
+#tabla_servicios1 tr th{
+    color: #3c4858;
+}
+#informacion-req{
+    color: #3c4858;
+    font-weight: 300;
+}
+#tabla_servicios2 td{
+    color: #3c4858;
+    font-weight: 300;
+}
+#informacion-alertas h4{
+    color: #3c4858;
+}
+#footer2{
+    clear: both;
+    background-color: #003D75 !important;
+    /*height: 250px;*/
+}
+#footer3{
+    background-color: #003D75 !important;
+   /*position: absolute;
+   bottom: 0;*/
+   
+    /*height: 250px;*/
+}
+/*
+.click-contenedor h4{
+    border: 2px solid #003D75;
+    border-radius: 8px 8px 0px 0px;
+    padding: 10px;
+    background-color: #005EC2;
+}
+.click-title{
+    color: #FFF !important;
+}
+.click-link{
+    width: 100%;
+    float: left;
+    background-color: red;
+    margin: 0px;
+    padding: 0px;
+}
+.click-link a{
+    display: block;
+}*/
+.card-header h3{
+    color: #222222 !important;
+}
+.card ul li{
+    padding: 0px !important;
+    margin: 0px !important;
+}
+.card ul li:hover a{
+    margin-left: 2% !important;
+    cursor: pointer;
+}
+.card ul li a{
+    transition: ease-in-out .3s;
+    display: block;
+    padding: 10px;
+    line-height: 30px;
+}
+.card ul li a:hover{
+    text-decoration: none;
+}
+#contentPagoBanamex{
+    min-width: 700px !important;
+}

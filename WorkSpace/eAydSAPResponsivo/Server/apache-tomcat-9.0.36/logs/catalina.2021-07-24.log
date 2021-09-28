@@ -1,0 +1,420 @@
+24-Jul-2021 03:11:06.364 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.36
+24-Jul-2021 03:11:06.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 3 2020 17:07:09 UTC
+24-Jul-2021 03:11:06.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.36.0
+24-Jul-2021 03:11:06.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+24-Jul-2021 03:11:06.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+24-Jul-2021 03:11:06.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+24-Jul-2021 03:11:06.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_221\jre
+24-Jul-2021 03:11:06.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_221-b11
+24-Jul-2021 03:11:06.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+24-Jul-2021 03:11:06.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36
+24-Jul-2021 03:11:06.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36
+24-Jul-2021 03:11:06.370 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\conf\logging.properties
+24-Jul-2021 03:11:06.370 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+24-Jul-2021 03:11:06.370 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+24-Jul-2021 03:11:06.370 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+24-Jul-2021 03:11:06.370 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+24-Jul-2021 03:11:06.370 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36
+24-Jul-2021 03:11:06.370 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36
+24-Jul-2021 03:11:06.370 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\temp
+24-Jul-2021 03:11:06.371 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+24-Jul-2021 03:11:06.371 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+24-Jul-2021 03:11:06.371 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+24-Jul-2021 03:11:06.380 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+24-Jul-2021 03:11:06.990 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Jul-2021 03:11:07.358 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["https-openssl-nio-8443"]
+24-Jul-2021 03:11:09.335 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [3,319] milliseconds
+24-Jul-2021 03:11:09.412 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Jul-2021 03:11:09.412 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.36]
+24-Jul-2021 03:11:09.427 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\docs]
+24-Jul-2021 03:11:09.924 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\docs] has finished in [496] ms
+24-Jul-2021 03:11:09.924 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\examples]
+24-Jul-2021 03:11:11.571 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\examples] has finished in [1,647] ms
+24-Jul-2021 03:11:11.571 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\host-manager]
+24-Jul-2021 03:11:11.655 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\host-manager] has finished in [83] ms
+24-Jul-2021 03:11:11.655 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\manager]
+24-Jul-2021 03:11:11.731 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\manager] has finished in [76] ms
+24-Jul-2021 03:11:11.731 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\ROOT]
+24-Jul-2021 03:11:11.773 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\ROOT] has finished in [42] ms
+24-Jul-2021 03:11:11.803 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Jul-2021 03:11:11.816 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["https-openssl-nio-8443"]
+24-Jul-2021 03:11:11.819 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2,483] milliseconds
+24-Jul-2021 03:11:36.650 INFO [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\conf\Catalina\localhost\eAyd.xml]
+24-Jul-2021 03:11:36.652 WARNING [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/eAyd] in deployment descriptor [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\conf\Catalina\localhost\eAyd.xml] has been ignored
+24-Jul-2021 03:11:38.060 INFO [http-nio-8080-exec-9] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 03:11:38.146 INFO [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\conf\Catalina\localhost\eAyd.xml] has finished in [1,496] ms
+24-Jul-2021 03:11:38.152 INFO [http-nio-8080-exec-10] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/eAyd]] after start() had already been called. The second call will be ignored.
+24-Jul-2021 03:25:08.779 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+24-Jul-2021 03:25:08.779 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+24-Jul-2021 03:25:09.090 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["https-openssl-nio-8443"]
+24-Jul-2021 03:25:09.364 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+24-Jul-2021 03:25:09.410 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+24-Jul-2021 03:25:09.414 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["https-openssl-nio-8443"]
+24-Jul-2021 03:25:09.416 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+24-Jul-2021 03:25:09.418 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["https-openssl-nio-8443"]
+24-Jul-2021 03:26:51.174 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.36
+24-Jul-2021 03:26:51.178 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 3 2020 17:07:09 UTC
+24-Jul-2021 03:26:51.178 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.36.0
+24-Jul-2021 03:26:51.178 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+24-Jul-2021 03:26:51.178 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+24-Jul-2021 03:26:51.179 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+24-Jul-2021 03:26:51.179 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_221\jre
+24-Jul-2021 03:26:51.179 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_221-b11
+24-Jul-2021 03:26:51.179 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+24-Jul-2021 03:26:51.179 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36
+24-Jul-2021 03:26:51.179 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36
+24-Jul-2021 03:26:51.181 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\conf\logging.properties
+24-Jul-2021 03:26:51.182 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+24-Jul-2021 03:26:51.182 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+24-Jul-2021 03:26:51.182 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+24-Jul-2021 03:26:51.182 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+24-Jul-2021 03:26:51.182 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36
+24-Jul-2021 03:26:51.182 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36
+24-Jul-2021 03:26:51.182 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\temp
+24-Jul-2021 03:26:51.183 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+24-Jul-2021 03:26:51.183 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+24-Jul-2021 03:26:51.186 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+24-Jul-2021 03:26:51.193 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+24-Jul-2021 03:26:51.813 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Jul-2021 03:26:52.274 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["https-openssl-nio-8443"]
+24-Jul-2021 03:26:52.972 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [2,188] milliseconds
+24-Jul-2021 03:26:53.012 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Jul-2021 03:26:53.013 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.36]
+24-Jul-2021 03:26:53.027 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\conf\Catalina\localhost\eAyd.xml]
+24-Jul-2021 03:26:53.050 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/eAyd] in deployment descriptor [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\conf\Catalina\localhost\eAyd.xml] has been ignored
+24-Jul-2021 03:26:53.791 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 03:26:53.860 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\conf\Catalina\localhost\eAyd.xml] has finished in [833] ms
+24-Jul-2021 03:26:53.861 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\docs]
+24-Jul-2021 03:26:53.900 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\docs] has finished in [39] ms
+24-Jul-2021 03:26:53.900 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\examples]
+24-Jul-2021 03:26:54.414 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\examples] has finished in [514] ms
+24-Jul-2021 03:26:54.414 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\host-manager]
+24-Jul-2021 03:26:54.474 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\host-manager] has finished in [60] ms
+24-Jul-2021 03:26:54.475 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\manager]
+24-Jul-2021 03:26:54.530 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\manager] has finished in [55] ms
+24-Jul-2021 03:26:54.530 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\ROOT]
+24-Jul-2021 03:26:54.577 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\marco\Documents\GARULO\ServiciosDeAguayDrenajeMty\AppWEBResponsiveSAP\WorkSpace\eAydSAPResponsivo\Server\apache-tomcat-9.0.36\webapps\ROOT] has finished in [47] ms
+24-Jul-2021 03:26:54.587 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Jul-2021 03:26:54.600 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["https-openssl-nio-8443"]
+24-Jul-2021 03:26:54.605 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1,632] milliseconds
+24-Jul-2021 03:33:09.544 INFO [http-nio-8080-exec-9] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 03:33:09.904 INFO [http-nio-8080-exec-9] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 03:33:09.910 INFO [http-nio-8080-exec-9] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 03:48:49.044 INFO [http-nio-8080-exec-11] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 03:48:49.471 INFO [http-nio-8080-exec-11] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 03:48:49.480 INFO [http-nio-8080-exec-11] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 04:27:08.495 INFO [http-nio-8080-exec-30] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 04:27:08.926 INFO [http-nio-8080-exec-30] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 04:27:08.932 INFO [http-nio-8080-exec-30] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 04:37:51.774 INFO [http-nio-8080-exec-37] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 04:37:52.403 INFO [http-nio-8080-exec-37] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 04:37:52.432 INFO [http-nio-8080-exec-37] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 04:38:16.555 INFO [http-nio-8080-exec-39] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 04:38:17.232 INFO [http-nio-8080-exec-39] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 04:38:17.305 INFO [http-nio-8080-exec-39] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 04:50:17.685 INFO [http-nio-8080-exec-47] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 04:50:18.175 INFO [http-nio-8080-exec-47] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 04:50:18.181 INFO [http-nio-8080-exec-47] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 04:50:39.647 INFO [http-nio-8080-exec-48] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 04:50:39.998 INFO [http-nio-8080-exec-48] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 04:50:40.003 INFO [http-nio-8080-exec-48] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 04:55:52.718 INFO [http-nio-8080-exec-57] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 04:55:53.150 INFO [http-nio-8080-exec-57] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 04:55:53.158 INFO [http-nio-8080-exec-57] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 05:06:58.183 INFO [http-nio-8080-exec-70] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 05:06:58.562 INFO [http-nio-8080-exec-70] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 05:06:58.566 INFO [http-nio-8080-exec-70] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 05:14:54.178 INFO [http-nio-8080-exec-75] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 05:14:54.806 INFO [http-nio-8080-exec-75] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 05:14:54.813 INFO [http-nio-8080-exec-75] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 05:16:27.116 INFO [http-nio-8080-exec-83] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 05:16:27.418 INFO [http-nio-8080-exec-83] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 05:16:27.422 INFO [http-nio-8080-exec-83] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 05:16:48.447 INFO [http-nio-8080-exec-78] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 05:16:48.884 INFO [http-nio-8080-exec-78] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 05:16:48.888 INFO [http-nio-8080-exec-78] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 05:17:29.913 SEVERE [https-openssl-nio-8443-exec-75] com.ayd.servlet.GenerarReporteOperativo.doPost null
+	Unexpected character (�) at position 0.
+		at org.json.simple.parser.Yylex.yylex(Unknown Source)
+		at org.json.simple.parser.JSONParser.nextToken(Unknown Source)
+		at org.json.simple.parser.JSONParser.parse(Unknown Source)
+		at org.json.simple.parser.JSONParser.parse(Unknown Source)
+		at com.ayd.servlet.GenerarReporteOperativo.processRequest(GenerarReporteOperativo.java:227)
+		at com.ayd.servlet.GenerarReporteOperativo.doPost(GenerarReporteOperativo.java:340)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+24-Jul-2021 05:18:23.831 INFO [http-nio-8080-exec-71] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 05:18:24.356 INFO [http-nio-8080-exec-71] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 05:18:24.363 INFO [http-nio-8080-exec-71] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 05:26:10.292 INFO [http-nio-8080-exec-90] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 05:26:10.659 INFO [http-nio-8080-exec-90] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 05:26:10.675 INFO [http-nio-8080-exec-90] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 05:33:54.086 INFO [http-nio-8080-exec-97] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 05:33:54.479 INFO [http-nio-8080-exec-97] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 05:33:54.484 INFO [http-nio-8080-exec-97] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 06:12:13.568 INFO [http-nio-8080-exec-108] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 06:12:14.077 INFO [http-nio-8080-exec-108] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 06:12:14.079 INFO [http-nio-8080-exec-108] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 06:12:21.760 INFO [http-nio-8080-exec-105] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 06:12:22.127 INFO [http-nio-8080-exec-105] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 06:12:22.129 INFO [http-nio-8080-exec-105] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 06:43:41.968 INFO [http-nio-8080-exec-116] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 06:43:42.317 INFO [http-nio-8080-exec-116] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 06:43:42.321 INFO [http-nio-8080-exec-116] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 06:43:54.751 INFO [http-nio-8080-exec-115] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 06:43:55.094 INFO [http-nio-8080-exec-115] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 06:43:55.098 INFO [http-nio-8080-exec-115] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 06:44:00.619 INFO [http-nio-8080-exec-123] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 06:44:01.109 INFO [http-nio-8080-exec-123] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 06:44:01.114 INFO [http-nio-8080-exec-123] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 06:44:21.749 INFO [http-nio-8080-exec-115] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 06:44:22.097 INFO [http-nio-8080-exec-115] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 06:44:22.102 INFO [http-nio-8080-exec-115] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 06:45:34.568 SEVERE [https-openssl-nio-8443-exec-120] com.ayd.servlet.GenerarReporteOperativo.doPost null
+	Unexpected character (�) at position 0.
+		at org.json.simple.parser.Yylex.yylex(Unknown Source)
+		at org.json.simple.parser.JSONParser.nextToken(Unknown Source)
+		at org.json.simple.parser.JSONParser.parse(Unknown Source)
+		at org.json.simple.parser.JSONParser.parse(Unknown Source)
+		at com.ayd.servlet.GenerarReporteOperativo.processRequest(GenerarReporteOperativo.java:227)
+		at com.ayd.servlet.GenerarReporteOperativo.doPost(GenerarReporteOperativo.java:343)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+24-Jul-2021 06:48:27.918 INFO [http-nio-8080-exec-130] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 06:48:28.264 INFO [http-nio-8080-exec-130] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 06:48:28.269 INFO [http-nio-8080-exec-130] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 06:54:56.524 INFO [http-nio-8080-exec-137] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 06:54:56.866 INFO [http-nio-8080-exec-137] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 06:54:56.870 INFO [http-nio-8080-exec-137] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 06:55:13.401 SEVERE [https-openssl-nio-8443-exec-127] com.ayd.servlet.GenerarReporteOperativo.doPost null
+	Unexpected character (�) at position 0.
+		at org.json.simple.parser.Yylex.yylex(Unknown Source)
+		at org.json.simple.parser.JSONParser.nextToken(Unknown Source)
+		at org.json.simple.parser.JSONParser.parse(Unknown Source)
+		at org.json.simple.parser.JSONParser.parse(Unknown Source)
+		at com.ayd.servlet.GenerarReporteOperativo.processRequest(GenerarReporteOperativo.java:229)
+		at com.ayd.servlet.GenerarReporteOperativo.doPost(GenerarReporteOperativo.java:347)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+24-Jul-2021 06:57:34.418 INFO [http-nio-8080-exec-138] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 06:57:34.810 INFO [http-nio-8080-exec-138] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 06:57:34.815 INFO [http-nio-8080-exec-138] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 06:58:54.770 INFO [http-nio-8080-exec-141] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 06:58:55.130 INFO [http-nio-8080-exec-141] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 06:58:55.137 INFO [http-nio-8080-exec-141] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 06:59:45.389 INFO [http-nio-8080-exec-140] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 06:59:45.813 INFO [http-nio-8080-exec-140] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 06:59:45.818 INFO [http-nio-8080-exec-140] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 06:59:58.252 SEVERE [https-openssl-nio-8443-exec-142] com.ayd.servlet.GenerarReporteOperativo.doPost null
+	Unexpected character (�) at position 0.
+		at org.json.simple.parser.Yylex.yylex(Unknown Source)
+		at org.json.simple.parser.JSONParser.nextToken(Unknown Source)
+		at org.json.simple.parser.JSONParser.parse(Unknown Source)
+		at org.json.simple.parser.JSONParser.parse(Unknown Source)
+		at com.ayd.servlet.GenerarReporteOperativo.processRequest(GenerarReporteOperativo.java:229)
+		at com.ayd.servlet.GenerarReporteOperativo.doPost(GenerarReporteOperativo.java:347)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+24-Jul-2021 07:02:40.678 INFO [http-nio-8080-exec-144] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 07:02:41.034 INFO [http-nio-8080-exec-144] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 07:02:41.038 INFO [http-nio-8080-exec-144] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 07:03:13.049 INFO [http-nio-8080-exec-148] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 07:03:13.391 INFO [http-nio-8080-exec-148] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 07:03:13.395 INFO [http-nio-8080-exec-148] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 07:03:23.230 INFO [http-nio-8080-exec-150] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 07:03:23.574 INFO [http-nio-8080-exec-150] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 07:03:23.578 INFO [http-nio-8080-exec-150] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 07:14:08.968 INFO [http-nio-8080-exec-153] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 07:14:09.386 INFO [http-nio-8080-exec-153] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 07:14:09.389 INFO [http-nio-8080-exec-153] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 07:14:49.445 INFO [http-nio-8080-exec-152] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 07:14:50.102 INFO [http-nio-8080-exec-152] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 07:14:50.107 INFO [http-nio-8080-exec-152] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 14:05:52.431 INFO [http-nio-8080-exec-166] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 14:05:53.072 INFO [http-nio-8080-exec-166] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 14:05:53.084 INFO [http-nio-8080-exec-166] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 14:09:20.060 INFO [http-nio-8080-exec-178] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 14:09:20.400 INFO [http-nio-8080-exec-178] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 14:09:20.402 INFO [http-nio-8080-exec-178] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 14:10:33.110 INFO [http-nio-8080-exec-175] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 14:10:33.419 INFO [http-nio-8080-exec-175] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 14:10:33.422 INFO [http-nio-8080-exec-175] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 14:10:44.808 INFO [http-nio-8080-exec-177] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 14:10:45.095 INFO [http-nio-8080-exec-177] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 14:10:45.098 INFO [http-nio-8080-exec-177] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 14:11:06.667 INFO [http-nio-8080-exec-167] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 14:11:06.993 INFO [http-nio-8080-exec-167] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 14:11:06.997 INFO [http-nio-8080-exec-167] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 14:11:14.786 INFO [http-nio-8080-exec-177] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 14:11:15.110 INFO [http-nio-8080-exec-177] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 14:11:15.115 INFO [http-nio-8080-exec-177] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 14:11:23.079 SEVERE [https-openssl-nio-8443-exec-187] com.ayd.servlet.GenerarReporteOperativo.doPost null
+	org.json.JSONException: A JSONObject text must begin with '{' at character 1
+		at org.json.JSONTokener.syntaxError(JSONTokener.java:413)
+		at org.json.JSONObject.<init>(JSONObject.java:180)
+		at org.json.JSONObject.<init>(JSONObject.java:420)
+		at com.ayd.servlet.GenerarReporteOperativo.processRequest(GenerarReporteOperativo.java:239)
+		at com.ayd.servlet.GenerarReporteOperativo.doPost(GenerarReporteOperativo.java:356)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+24-Jul-2021 14:12:04.506 INFO [http-nio-8080-exec-183] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 14:12:04.846 INFO [http-nio-8080-exec-183] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 14:12:04.849 INFO [http-nio-8080-exec-183] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 14:13:44.358 INFO [http-nio-8080-exec-166] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 14:13:44.696 INFO [http-nio-8080-exec-166] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 14:13:44.711 INFO [http-nio-8080-exec-166] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 14:17:05.203 INFO [http-nio-8080-exec-190] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 14:17:05.782 INFO [http-nio-8080-exec-190] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 14:17:05.803 INFO [http-nio-8080-exec-190] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 14:18:11.249 INFO [http-nio-8080-exec-167] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 14:18:11.580 INFO [http-nio-8080-exec-167] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 14:18:11.583 INFO [http-nio-8080-exec-167] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 14:24:08.881 INFO [http-nio-8080-exec-199] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 14:24:09.230 INFO [http-nio-8080-exec-199] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 14:24:09.233 INFO [http-nio-8080-exec-199] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 14:26:36.647 INFO [http-nio-8080-exec-193] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 14:26:37.075 INFO [http-nio-8080-exec-193] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 14:26:37.080 INFO [http-nio-8080-exec-193] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 14:27:54.733 INFO [http-nio-8080-exec-196] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 14:27:55.100 INFO [http-nio-8080-exec-196] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 14:27:55.103 INFO [http-nio-8080-exec-196] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 14:28:18.168 INFO [http-nio-8080-exec-206] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 14:28:18.488 INFO [http-nio-8080-exec-206] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 14:28:18.492 INFO [http-nio-8080-exec-206] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 14:30:55.517 INFO [http-nio-8080-exec-193] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 14:30:55.847 INFO [http-nio-8080-exec-193] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 14:30:55.850 INFO [http-nio-8080-exec-193] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 14:35:22.625 INFO [http-nio-8080-exec-216] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 14:35:22.945 INFO [http-nio-8080-exec-216] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 14:35:22.948 INFO [http-nio-8080-exec-216] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 14:35:28.315 INFO [http-nio-8080-exec-215] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 14:35:28.600 INFO [http-nio-8080-exec-215] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 14:35:28.603 INFO [http-nio-8080-exec-215] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 14:37:28.529 INFO [http-nio-8080-exec-212] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 14:37:29.149 INFO [http-nio-8080-exec-212] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 14:37:29.154 INFO [http-nio-8080-exec-212] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 14:38:55.595 INFO [http-nio-8080-exec-215] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 14:38:56.164 INFO [http-nio-8080-exec-215] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 14:38:56.168 INFO [http-nio-8080-exec-215] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 14:40:07.293 INFO [http-nio-8080-exec-213] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 14:40:07.733 INFO [http-nio-8080-exec-213] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 14:40:07.740 INFO [http-nio-8080-exec-213] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 14:54:38.676 INFO [http-nio-8080-exec-225] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 14:54:39.036 INFO [http-nio-8080-exec-225] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 14:54:39.040 INFO [http-nio-8080-exec-225] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 14:56:54.417 INFO [http-nio-8080-exec-235] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 14:56:54.755 INFO [http-nio-8080-exec-235] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 14:56:54.759 INFO [http-nio-8080-exec-235] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed
+24-Jul-2021 14:58:38.356 INFO [http-nio-8080-exec-230] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] has started
+24-Jul-2021 14:58:38.704 INFO [http-nio-8080-exec-230] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+24-Jul-2021 14:58:38.708 INFO [http-nio-8080-exec-230] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/eAyd] is completed

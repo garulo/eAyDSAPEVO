@@ -1,0 +1,158 @@
+body {
+	font-size: 11px;
+	color:#18316B;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+	margin-top: 0px;
+	padding: 0px 0px 0px 0px;
+	background-image:url(../imagenes/background.gif);
+	position:static;
+}
+#footer {
+	width:560px; /*menos porque debemos sumar el padding del div contenido*/ 
+	text-align:right;
+	padding:10px;
+	font-size:60%; /*mas pequeño el texto*/ 
+	font-style:italic;
+	color:#999999;
+}
+.MenuColor {
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+  font-size: 12px; 
+  color: #000080; 
+  line-height: 14px; 
+  letter-spacing: 0.1px; 
+  font-weight: bold; 
+  background-color: #FFFFFF;
+  text-decoration: none;
+}
+
+.MenuOver { 
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-size: 12px; 
+  color: #000080; 
+  line-height: 14px; 
+  letter-spacing: 0.1px; 
+  font-weight: bold; 
+  background-color: #CCCCFF;
+  text-decoration: none;
+}
+
+.title {
+	font-family:  Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size:  12px;
+	color:  navy;
+	line-height: 18px;
+	letter-spacing:  0.1px;
+}
+
+.default {
+	font-family:  Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size:  10px;
+	color:  #000000;
+	line-height: normal;
+}
+
+.titleBig {
+	font-family:  Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size:  16px;
+	color:  #000080;
+	line-height: 18px;
+	letter-spacing:  0.1px;
+}
+
+.normal {
+	font-family:  Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size:  12px;
+	color:  #000000;
+	line-height: 18px;
+	letter-spacing:  0.1px;
+}
+
+.text {
+	font-family:  Arial;
+	font-size:  11px;
+	color:  #000000;
+	line-height: normal;
+	text-decoration: none;
+}
+
+.textRecibo {
+	font-family:  Arial;
+	font-size:  10px;
+	color:  #000000;
+	line-height: normal;
+	text-decoration: none;
+}
+
+.userInfo {
+	font-family:  Arial;
+	font-size:  12px;
+	color:  #000000;
+	line-height: normal;
+	text-decoration: none;
+}
+
+.menuText {
+	font-family:  Arial;
+	font-size:  11px;
+	color:  #333333;
+	line-height: normal;
+	text-decoration: none;
+}
+
+.TextoFooter {
+	font-family:  Arial;
+	font-size:  11px;
+	color:  #666666;
+	line-height: normal;
+	text-decoration: none;
+}
+
+.pass {
+	font-family:  Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size:  12px;
+	color:  navy;
+	line-height: normal;
+	text-decoration: none;
+}
+
+.error {
+	font-family:  Courier;
+	font-size:  10px;
+	color:  #000000;
+	line-height: 18px;
+	letter-spacing:  0.1px;
+}
+
+.titlePass {
+	font-family:  Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size:  14px;
+	color:  navy;
+	line-height: 18px;
+	letter-spacing:  0.1px;
+}
+
+.commentTit {
+	font-family:  Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size:  12px;
+	color:  #333333;
+	line-height: normal;
+	text-decoration: none;
+}
+
+.comment {
+	font-family:  Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size:  10px;
+	color:  #333300;
+	line-height: normal;
+	text-decoration: none;
+}
+
+.commentError {
+	font-family:  Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size:  12px;
+	color:  #FF0000;
+	line-height: normal;
+	text-decoration: none;
+}

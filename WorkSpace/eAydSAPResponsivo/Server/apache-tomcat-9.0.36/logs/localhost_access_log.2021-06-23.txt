@@ -1,0 +1,2159 @@
+127.0.0.1 - - [23/Jun/2021:18:07:02 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:18:07:02 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:18:07:02 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:18:07:02 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:18:07:03 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:18:07:03 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:18:07:04 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:18:07:04 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:19:58:38 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - - [23/Jun/2021:19:58:39 -0500] "GET /manager/text/ HTTP/1.1" 401 2562
+127.0.0.1 - - [23/Jun/2021:19:58:39 -0500] "GET /manager/text/ HTTP/1.1" 401 2562
+127.0.0.1 - eAydSAP [23/Jun/2021:20:00:44 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:00:44 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:00:44 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:00:44 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:00:44 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:00:44 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:00:44 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:00:44 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - eAydSAP [23/Jun/2021:20:00:44 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - eAydSAP [23/Jun/2021:20:00:44 -0500] "GET /manager/text/undeploy?path=/eAyd HTTP/1.1" 200 64
+127.0.0.1 - eAydSAP [23/Jun/2021:20:00:45 -0500] "GET /manager/text/deploy?config=file%3A%2FC%3A%2FUsers%2Fmarco%2FAppData%2FLocal%2FTemp%2Fcontext2810991150726358244.xml&path=/eAyd HTTP/1.1" 200 62
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:00:45 -0500] "GET /eAyd HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:00:48 -0500] "GET /eAyd/ HTTP/1.1" 200 18899
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:00:48 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:00:48 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:00:48 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:00:48 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:00:48 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:00:48 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:00:48 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:00:48 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:00:48 -0500] "GET /eAyd/images/AYD.png HTTP/1.1" 200 91893
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:00:48 -0500] "GET /eAyd/images/veri_sign.gif HTTP/1.1" 200 3883
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:00:49 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:00:54 -0500] "GET /eAyd/Login.jsp HTTP/1.1" 200 18899
+192.168.0.8 - - [23/Jun/2021:20:00:55 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:00:55 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:00:55 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:00:55 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.8 - - [23/Jun/2021:20:00:55 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:20:00:55 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:20:00:55 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:20:00:55 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.8 - - [23/Jun/2021:20:00:55 -0500] "GET /eAyd/images/veri_sign.gif HTTP/1.1" 200 3883
+127.0.0.1 - - [23/Jun/2021:20:04:21 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:04:21 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:04:21 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:04:21 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:04:21 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:04:21 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:08:07 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:08:07 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:08:07 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:08:07 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:08:07 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:08:07 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:08:07 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:08:07 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:08:07 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - eAydSAP [23/Jun/2021:20:08:07 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:08:07 -0500] "GET /eAyd HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:08:08 -0500] "GET /eAyd/ HTTP/1.1" 200 18899
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:08:08 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:08:08 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:08:08 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:08:08 -0500] "GET /eAyd/js/script.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:08:08 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:08:08 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:08:08 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:08:08 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:08:08 -0500] "GET /eAyd/images/veri_sign.gif HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Jun/2021:20:08:08 -0500] "GET /eAyd/images/AYD.png HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:20:08:28 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:08:28 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:08:33 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:08:33 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:08:33 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:08:34 -0500] "GET /eAyd/Login.jsp HTTP/1.1" 200 18899
+192.168.0.8 - - [23/Jun/2021:20:08:34 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:08:34 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:08:34 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:08:34 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.8 - - [23/Jun/2021:20:08:34 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:08:34 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:08:34 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:08:34 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:08:34 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:08:34 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:20:08:34 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:20:08:34 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:20:08:34 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.8 - - [23/Jun/2021:20:08:35 -0500] "GET /eAyd/images/veri_sign.gif HTTP/1.1" 200 3883
+192.168.0.8 - - [23/Jun/2021:20:08:35 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:20:09:44 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:09:44 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:09:44 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:09:44 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:09:44 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:09:44 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:09:44 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:09:44 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:09:44 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:20:10:09 -0500] "GET /eAyd/QBResult.jsp?uid= HTTP/1.1" 500 2502
+127.0.0.1 - - [23/Jun/2021:20:10:21 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:10:21 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:10:21 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:10:21 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:10:21 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:10:21 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:10:21 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:10:21 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:10:21 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:20:10:30 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:10:30 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:10:30 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:10:30 -0500] "GET /eAyd/Login.jsp HTTP/1.1" 200 18899
+192.168.0.8 - - [23/Jun/2021:20:10:30 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:10:30 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:10:30 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:10:30 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:10:30 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:20:10:30 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:10:30 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:10:30 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:10:30 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:20:10:30 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:20:10:30 -0500] "GET /eAyd/js/script.js HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:20:10:30 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:10:30 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:20:10:30 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:10:30 -0500] "GET /eAyd/images/veri_sign.gif HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:20:10:31 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:10:32 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:10:32 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:20:10:32 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:10:32 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:10:32 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:20:10:32 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:20:10:32 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:10:32 -0500] "GET /eAyd/UserRegistration.jsp?userEmail=1 HTTP/1.1" 200 45058
+192.168.0.8 - - [23/Jun/2021:20:10:59 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:10:59 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:10:59 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:22:35 -0500] "POST /eAyd/cerrarsesion HTTP/1.1" 200 85
+192.168.0.8 - - [23/Jun/2021:20:22:35 -0500] "GET /eAyd/Login.jsp HTTP/1.1" 200 18899
+192.168.0.8 - - [23/Jun/2021:20:22:35 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:22:35 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:22:35 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:22:35 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:20:22:35 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.8 - - [23/Jun/2021:20:22:35 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:20:22:35 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:20:22:35 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.8 - - [23/Jun/2021:20:22:35 -0500] "GET /eAyd/images/veri_sign.gif HTTP/1.1" 200 3883
+192.168.0.8 - - [23/Jun/2021:20:22:36 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:22:38 -0500] "GET /eAyd/UserRegistration.jsp?userEmail=1 HTTP/1.1" 200 45058
+192.168.0.8 - - [23/Jun/2021:20:23:21 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:23:21 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:23:21 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:23:28 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:23:28 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:23:28 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:23:28 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:23:28 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:23:28 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:23:28 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:23:28 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:23:28 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:23:28 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:23:28 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:20:23:28 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:23:28 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:23:28 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:23:28 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:20:23:28 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:23:28 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:20:23:28 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.8 - - [23/Jun/2021:20:23:28 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.8 - - [23/Jun/2021:20:23:28 -0500] "GET /eAyd/UserRegistration.jsp?userEmail=1 HTTP/1.1" 200 45058
+192.168.0.8 - - [23/Jun/2021:20:23:29 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:23:29 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:23:29 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:24:03 -0500] "GET / HTTP/1.1" 200 11415
+192.168.0.8 - - [23/Jun/2021:20:24:03 -0500] "GET /tomcat.css HTTP/1.1" 200 5931
+192.168.0.8 - - [23/Jun/2021:20:24:03 -0500] "GET /tomcat.png HTTP/1.1" 200 5103
+192.168.0.8 - - [23/Jun/2021:20:24:03 -0500] "GET /bg-upper.png HTTP/1.1" 200 3103
+192.168.0.8 - - [23/Jun/2021:20:24:03 -0500] "GET /asf-logo-wide.svg HTTP/1.1" 200 27530
+192.168.0.8 - - [23/Jun/2021:20:24:03 -0500] "GET /bg-button.png HTTP/1.1" 200 713
+192.168.0.8 - - [23/Jun/2021:20:24:03 -0500] "GET /bg-nav.png HTTP/1.1" 200 1401
+192.168.0.8 - - [23/Jun/2021:20:24:03 -0500] "GET /bg-middle.png HTTP/1.1" 200 1918
+192.168.0.8 - - [23/Jun/2021:20:24:03 -0500] "GET /favicon.ico HTTP/1.1" 200 21630
+192.168.0.8 - - [23/Jun/2021:20:24:14 -0500] "GET /eAyd HTTP/1.1" 302 -
+192.168.0.8 - - [23/Jun/2021:20:24:14 -0500] "GET /eAyd/ HTTP/1.1" 200 18899
+192.168.0.8 - - [23/Jun/2021:20:24:14 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:24:14 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:24:14 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:24:14 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:20:24:14 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:20:24:14 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:20:24:14 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.8 - - [23/Jun/2021:20:24:14 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.8 - - [23/Jun/2021:20:24:14 -0500] "GET /eAyd/images/veri_sign.gif HTTP/1.1" 200 3883
+192.168.0.8 - - [23/Jun/2021:20:24:22 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:24:22 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:24:22 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:20:24:22 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:24:22 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:20:24:22 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:20:24:22 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:24:22 -0500] "GET /eAyd/UserRegistration.jsp?userEmail=1 HTTP/1.1" 200 45058
+127.0.0.1 - - [23/Jun/2021:20:25:08 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:25:08 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:25:08 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:25:08 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:25:08 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:25:08 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:25:08 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:25:08 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:25:08 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:25:55 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:25:55 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:25:55 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:25:55 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:25:55 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:25:55 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:25:55 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:25:55 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:25:55 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:20:25:59 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:25:59 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:25:59 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:25:59 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:25:59 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:25:59 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:25:59 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:25:59 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:25:59 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:25:59 -0500] "GET /eAyd/UserRegistration.jsp?userEmail=1 HTTP/1.1" 200 45181
+192.168.0.8 - - [23/Jun/2021:20:26:00 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:26:00 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:20:26:29 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:26:29 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:26:29 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:26:29 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:26:29 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:26:29 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:26:30 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:26:30 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:26:30 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:20:26:32 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:26:32 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:26:32 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:26:32 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:26:32 -0500] "GET /eAyd/UserRegistration.jsp?userEmail=1 HTTP/1.1" 200 45175
+192.168.0.8 - - [23/Jun/2021:20:26:33 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:26:33 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - eAydSAP [23/Jun/2021:20:28:51 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:28:51 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - - [23/Jun/2021:20:28:51 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:28:51 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:28:51 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:28:51 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:28:51 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:28:51 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:28:51 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:29:05 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:29:05 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:29:05 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:29:05 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:29:05 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:29:05 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:29:05 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:29:05 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:29:05 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:20:29:08 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:29:08 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:29:08 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:29:08 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:29:08 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:20:29:08 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:29:08 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:29:08 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:29:08 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:29:08 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:20:29:08 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:20:29:08 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:20:29:08 -0500] "GET /eAyd/js/script.js HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:20:29:08 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:29:08 -0500] "GET /eAyd/UserRegistration.jsp?userEmail=1 HTTP/1.1" 200 45237
+192.168.0.8 - - [23/Jun/2021:20:29:09 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:29:09 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:29:09 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:29:28 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:29:28 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:29:28 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:29:28 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:29:29 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:29:29 -0500] "GET /eAyd/UserRegistration.jsp?userEmail=1 HTTP/1.1" 200 45237
+192.168.0.8 - - [23/Jun/2021:20:29:29 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:29:29 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:29:36 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:29:36 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:29:36 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+127.0.0.1 - - [23/Jun/2021:20:30:43 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:30:43 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:30:43 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:30:43 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:30:43 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:30:43 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:30:43 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:30:43 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:30:43 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:31:11 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:31:11 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:31:11 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:31:11 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:31:11 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:31:11 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:31:11 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:31:11 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:31:11 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:31:13 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:31:13 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:31:13 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:31:13 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:31:13 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:31:13 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:31:13 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:31:13 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:31:13 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:32:20 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:32:20 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:32:20 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:32:20 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:32:20 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:32:20 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:32:20 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:32:20 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:32:20 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:20:32:25 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:32:25 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:32:25 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:32:25 -0500] "GET /eAyd/UserRegistration.jsp?userEmail=1 HTTP/1.1" 200 44937
+192.168.0.8 - - [23/Jun/2021:20:32:25 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.8 - - [23/Jun/2021:20:32:25 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:32:25 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:32:25 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:32:25 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:32:25 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:32:25 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:20:32:25 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:32:25 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:32:25 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:20:32:25 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.8 - - [23/Jun/2021:20:32:25 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:32:25 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:20:32:25 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:32:26 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:32:26 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:33:07 -0500] "GET /eAyd/ HTTP/1.1" 200 18899
+192.168.0.8 - - [23/Jun/2021:20:33:07 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:33:07 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:33:07 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:33:07 -0500] "GET /eAyd/images/veri_sign.gif HTTP/1.1" 200 3883
+192.168.0.8 - - [23/Jun/2021:20:33:14 -0500] "POST /eAyd/autenticacione HTTP/1.1" 302 -
+192.168.0.8 - - [23/Jun/2021:20:33:15 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 41603
+192.168.0.8 - - [23/Jun/2021:20:33:15 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:33:15 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:33:15 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:33:15 -0500] "GET /eAyd/imagenes/eliminar.png HTTP/1.1" 200 2870
+192.168.0.8 - - [23/Jun/2021:20:33:19 -0500] "GET /eAyd/ServiciosAlertas.jsp HTTP/1.1" 500 3134
+192.168.0.8 - - [23/Jun/2021:20:33:22 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 41603
+192.168.0.8 - - [23/Jun/2021:20:33:22 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:33:22 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:33:22 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:33:22 -0500] "GET /eAyd/ServiciosAlertas.jsp HTTP/1.1" 500 3134
+192.168.0.8 - - [23/Jun/2021:20:33:24 -0500] "GET /eAyd/ HTTP/1.1" 200 18899
+192.168.0.8 - - [23/Jun/2021:20:33:24 -0500] "GET /eAyd/images/veri_sign.gif HTTP/1.1" 200 3883
+192.168.0.8 - - [23/Jun/2021:20:33:25 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 32806
+127.0.0.1 - - [23/Jun/2021:20:33:54 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:33:54 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:33:54 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:33:54 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:33:54 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:33:54 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:33:54 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:33:54 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:33:54 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:20:34:36 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:34:36 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:34:36 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:34:36 -0500] "POST /eAyd/autenticacione HTTP/1.1" 302 -
+192.168.0.8 - - [23/Jun/2021:20:34:36 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 41603
+192.168.0.8 - - [23/Jun/2021:20:34:36 -0500] "GET /eAyd/imagenes/eliminar.png HTTP/1.1" 200 2870
+192.168.0.8 - - [23/Jun/2021:20:34:40 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:34:42 -0500] "GET /eAyd/ServiciosAlertas.jsp HTTP/1.1" 200 40583
+192.168.0.8 - - [23/Jun/2021:20:34:42 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:34:42 -0500] "GET /eAyd/imagenes/b_SM001.jpg HTTP/1.1" 200 3222
+192.168.0.8 - - [23/Jun/2021:20:34:42 -0500] "GET /eAyd/imagenes/b_SM001_eco.jpg HTTP/1.1" 200 2968
+192.168.0.8 - - [23/Jun/2021:20:34:42 -0500] "GET /eAyd/js/bootstrap.js HTTP/1.1" 200 48666
+192.168.0.8 - - [23/Jun/2021:20:34:45 -0500] "POST /eAyd/servicealert HTTP/1.1" 500 1741
+127.0.0.1 - - [23/Jun/2021:20:35:15 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:35:15 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:35:15 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:35:15 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:35:15 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:35:15 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:35:15 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:35:15 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:35:15 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:20:35:17 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:35:17 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:35:17 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:35:17 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:35:17 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:35:17 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:35:17 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:35:17 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:20:35:17 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:35:17 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:35:18 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:35:18 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:35:18 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:20:35:18 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.8 - - [23/Jun/2021:20:35:18 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:20:35:18 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.8 - - [23/Jun/2021:20:35:18 -0500] "GET /eAyd/ServiciosAlertas.jsp HTTP/1.1" 200 40590
+192.168.0.8 - - [23/Jun/2021:20:35:18 -0500] "GET /eAyd/js/bootstrap.js HTTP/1.1" 200 48666
+192.168.0.8 - - [23/Jun/2021:20:35:18 -0500] "GET /eAyd/imagenes/b_SM001.jpg HTTP/1.1" 200 3222
+192.168.0.8 - - [23/Jun/2021:20:35:18 -0500] "GET /eAyd/imagenes/b_SM001_eco.jpg HTTP/1.1" 200 2968
+192.168.0.8 - - [23/Jun/2021:20:35:21 -0500] "GET /eAyd/ServiciosAlertas.jsp HTTP/1.1" 200 40590
+192.168.0.8 - - [23/Jun/2021:20:35:24 -0500] "POST /eAyd/servicealert HTTP/1.1" 302 -
+192.168.0.8 - - [23/Jun/2021:20:35:25 -0500] "GET /eAyd/ServiciosAlertas.jsp HTTP/1.1" 200 40597
+192.168.0.8 - - [23/Jun/2021:20:35:28 -0500] "POST /eAyd/servicealert HTTP/1.1" 302 -
+192.168.0.8 - - [23/Jun/2021:20:35:28 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:35:28 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:35:28 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:35:28 -0500] "GET /eAyd/ServiciosAlertas.jsp HTTP/1.1" 200 40604
+192.168.0.8 - - [23/Jun/2021:20:35:36 -0500] "POST /eAyd/servicealert HTTP/1.1" 302 -
+192.168.0.8 - - [23/Jun/2021:20:35:37 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:35:37 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:35:37 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:35:37 -0500] "GET /eAyd/ServiciosAlertas.jsp HTTP/1.1" 200 40590
+192.168.0.8 - - [23/Jun/2021:20:35:44 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:35:44 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:35:44 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:35:44 -0500] "GET /eAyd/UserEdit.jsp HTTP/1.1" 200 56638
+192.168.0.8 - - [23/Jun/2021:20:36:05 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:36:05 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:36:05 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:36:11 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:36:11 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:36:11 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:36:11 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.8 - - [23/Jun/2021:20:36:11 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:20:36:11 -0500] "GET /eAyd/UserEdit.jsp HTTP/1.1" 200 56638
+192.168.0.8 - - [23/Jun/2021:20:36:11 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:20:36:11 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:20:36:11 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.8 - - [23/Jun/2021:20:36:11 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:39:06 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:39:06 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:39:07 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:39:07 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:39:07 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:39:07 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:39:07 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:39:07 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:39:07 -0500] "GET /eAyd/UserEdit.jsp HTTP/1.1" 200 56638
+192.168.0.8 - - [23/Jun/2021:20:39:07 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:39:16 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 41603
+192.168.0.8 - - [23/Jun/2021:20:39:16 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:39:16 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:39:16 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:39:16 -0500] "GET /eAyd/imagenes/eliminar.png HTTP/1.1" 200 2870
+192.168.0.8 - - [23/Jun/2021:20:39:19 -0500] "POST /eAyd/cerrarsesion HTTP/1.1" 200 85
+192.168.0.8 - - [23/Jun/2021:20:39:19 -0500] "GET /eAyd/Login.jsp HTTP/1.1" 200 18899
+192.168.0.8 - - [23/Jun/2021:20:39:19 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:39:19 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:39:20 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:39:20 -0500] "GET /eAyd/images/veri_sign.gif HTTP/1.1" 200 3883
+192.168.0.8 - - [23/Jun/2021:20:39:23 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:39:23 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:39:23 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:39:23 -0500] "GET /eAyd/UserRegistration.jsp?userEmail=1 HTTP/1.1" 200 44937
+192.168.0.8 - - [23/Jun/2021:20:39:23 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:20:40:00 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:40:00 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:40:00 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:40:00 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:40:00 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:40:00 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:40:00 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:40:00 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:40:00 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:40:13 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:40:13 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:40:13 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:40:13 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:40:13 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:40:13 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:40:13 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:40:13 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:40:13 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:20:40:21 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:20:40:21 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:40:21 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:40:21 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:40:21 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:40:21 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:40:21 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:20:40:21 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:20:40:21 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:20:40:21 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:40:21 -0500] "GET /eAyd/js/script.js HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:20:40:21 -0500] "GET /eAyd/UserRegistration.jsp?userEmail=1 HTTP/1.1" 200 45424
+192.168.0.8 - - [23/Jun/2021:20:40:21 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:40:21 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:40:36 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:40:36 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:40:36 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:40:36 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:40:36 -0500] "GET /eAyd/UserRegistration.jsp?userEmail=1 HTTP/1.1" 200 45424
+192.168.0.8 - - [23/Jun/2021:20:40:36 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:40:36 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:40:55 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.8 - - [23/Jun/2021:20:40:55 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:40:55 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:40:55 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:20:40:55 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:40:55 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:40:55 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:20:40:55 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:20:40:55 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.8 - - [23/Jun/2021:20:40:55 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:40:55 -0500] "GET /eAyd/UserRegistration.jsp?userEmail=1 HTTP/1.1" 200 45424
+192.168.0.8 - - [23/Jun/2021:20:40:55 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:40:56 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:40:56 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:20:43:46 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:43:46 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:43:46 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:43:46 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:43:46 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:43:46 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:43:46 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:43:46 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:43:46 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:20:43:50 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:43:50 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:43:50 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:43:52 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:43:52 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:43:52 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:43:52 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:43:52 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:20:43:52 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:43:52 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:43:52 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:43:52 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:43:52 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:43:52 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:43:52 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:43:52 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:20:43:52 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:43:52 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:20:43:52 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:43:52 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.8 - - [23/Jun/2021:20:43:52 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.8 - - [23/Jun/2021:20:43:52 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:43:52 -0500] "GET /eAyd/UserRegistration.jsp?userEmail=1 HTTP/1.1" 200 45549
+192.168.0.8 - - [23/Jun/2021:20:43:52 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:43:52 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:20:44:36 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:44:36 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:44:36 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:44:36 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:44:36 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:44:36 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:44:36 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:44:36 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:44:36 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:44:40 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:44:40 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:44:40 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:44:40 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:44:40 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:44:40 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:44:40 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:44:40 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:44:40 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:45:53 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:45:53 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:45:53 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:45:53 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:45:53 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:45:53 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:45:53 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:45:53 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:45:53 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:20:46:25 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:46:25 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:46:25 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:46:26 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:46:26 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:46:26 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:46:26 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:46:26 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:46:26 -0500] "GET /eAyd/UserRegistration.jsp?userEmail=1 HTTP/1.1" 200 45549
+192.168.0.8 - - [23/Jun/2021:20:46:26 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:46:26 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:47:22 -0500] "POST /eAyd/registrarcuenta HTTP/1.1" 200 83
+192.168.0.8 - - [23/Jun/2021:20:47:22 -0500] "GET /eAyd/sweetAlertRegiCtatrue.html HTTP/1.1" 200 393
+192.168.0.8 - - [23/Jun/2021:20:47:24 -0500] "GET /eAyd/Login.jsp HTTP/1.1" 200 18899
+192.168.0.8 - - [23/Jun/2021:20:47:24 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:47:24 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:47:24 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:47:24 -0500] "GET /eAyd/images/veri_sign.gif HTTP/1.1" 200 3883
+192.168.0.8 - - [23/Jun/2021:20:48:12 -0500] "POST /eAyd/autenticacione HTTP/1.1" 302 -
+192.168.0.8 - - [23/Jun/2021:20:48:12 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 32376
+192.168.0.8 - - [23/Jun/2021:20:48:12 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:48:12 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:48:12 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:48:12 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:48:12 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:20:48:12 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:48:12 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:20:48:12 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:20:48:14 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:48:14 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:48:14 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:48:14 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:48:14 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:48:14 -0500] "GET /eAyd/UserEdit.jsp HTTP/1.1" 200 56600
+127.0.0.1 - - [23/Jun/2021:20:53:08 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:53:08 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:53:08 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:53:08 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:53:08 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:53:08 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:53:08 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:53:08 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:53:08 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:20:53:12 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:53:12 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:53:12 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:53:12 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:53:12 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:53:12 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:53:12 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:53:12 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:53:12 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:53:12 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:53:12 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:53:12 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:53:12 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:53:12 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:53:12 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:20:53:12 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:20:53:12 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:20:53:12 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:20:53:12 -0500] "GET /eAyd/js/script.js HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:20:53:12 -0500] "GET /eAyd/UserEdit.jsp HTTP/1.1" 200 55555
+192.168.0.8 - - [23/Jun/2021:20:53:13 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:20:53:57 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:53:57 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:53:57 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:53:57 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:53:57 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:53:57 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:53:57 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:53:57 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:53:57 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:54:24 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:54:24 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:54:24 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:54:24 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:54:24 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:54:24 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:54:24 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:54:24 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:54:24 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:54:39 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:54:39 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:54:39 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:54:39 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:54:39 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:54:39 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:54:39 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:54:39 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:54:39 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:20:54:41 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:54:41 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:54:41 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:54:42 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:54:42 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:54:42 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:54:42 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:54:42 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:54:42 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:54:42 -0500] "GET /eAyd/UserEdit.jsp HTTP/1.1" 200 55967
+192.168.0.8 - - [23/Jun/2021:20:54:42 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:20:55:18 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:55:18 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:55:18 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - - [23/Jun/2021:20:55:18 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:55:18 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:55:18 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:55:18 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:55:18 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:55:18 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:55:23 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:55:23 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:55:23 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:55:23 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:55:23 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:55:23 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:55:23 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:55:23 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:55:23 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:20:55:25 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:55:25 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:55:25 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:55:25 -0500] "GET /eAyd/UserEdit.jsp HTTP/1.1" 200 55774
+192.168.0.8 - - [23/Jun/2021:20:55:26 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:55:53 -0500] "POST /eAyd/modificarcuenta HTTP/1.1" 302 -
+192.168.0.8 - - [23/Jun/2021:20:55:54 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:55:54 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:55:54 -0500] "GET /eAyd/UserEdit.jsp HTTP/1.1" 200 55774
+192.168.0.8 - - [23/Jun/2021:20:55:54 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+127.0.0.1 - - [23/Jun/2021:20:58:57 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:58:57 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:58:57 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:58:57 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:20:58:57 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:58:57 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:20:58:57 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:20:58:57 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:20:58:57 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:20:59:17 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:59:17 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:59:17 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:59:18 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:59:18 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:59:18 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:59:18 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:59:18 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:20:59:18 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:20:59:18 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:20:59:18 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:59:18 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:59:18 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:59:18 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:20:59:18 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:20:59:18 -0500] "GET /eAyd/js/script.js HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:20:59:18 -0500] "GET /eAyd/UserEdit.jsp HTTP/1.1" 200 55730
+192.168.0.8 - - [23/Jun/2021:20:59:18 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:20:59:20 -0500] "GET /eAyd/ServiciosAlertas.jsp HTTP/1.1" 200 14425
+192.168.0.8 - - [23/Jun/2021:20:59:20 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:59:20 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:59:20 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:59:20 -0500] "GET /eAyd/js/bootstrap.js HTTP/1.1" 200 48666
+192.168.0.8 - - [23/Jun/2021:20:59:20 -0500] "GET /eAyd/imagenes/b_SM001_eco.jpg HTTP/1.1" 200 2968
+192.168.0.8 - - [23/Jun/2021:20:59:20 -0500] "GET /eAyd/imagenes/b_SM001.jpg HTTP/1.1" 200 3222
+192.168.0.8 - - [23/Jun/2021:20:59:23 -0500] "GET /eAyd/ServiciosAlertas.jsp HTTP/1.1" 200 14425
+192.168.0.8 - - [23/Jun/2021:20:59:23 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:59:23 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:59:23 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:59:33 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:59:33 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:59:33 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:59:42 -0500] "GET /eAyd/ServiciosAlertas.jsp HTTP/1.1" 200 14425
+192.168.0.8 - - [23/Jun/2021:20:59:42 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:20:59:42 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:20:59:42 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:20:59:42 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.8 - - [23/Jun/2021:20:59:42 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:20:59:42 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:20:59:43 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:20:59:43 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.8 - - [23/Jun/2021:20:59:43 -0500] "GET /eAyd/js/bootstrap.js HTTP/1.1" 200 48666
+192.168.0.8 - - [23/Jun/2021:20:59:43 -0500] "GET /eAyd/imagenes/b_SM001.jpg HTTP/1.1" 200 3222
+192.168.0.8 - - [23/Jun/2021:20:59:43 -0500] "GET /eAyd/imagenes/b_SM001_eco.jpg HTTP/1.1" 200 2968
+127.0.0.1 - - [23/Jun/2021:21:00:00 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:00:00 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:00:00 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:00:00 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:00:00 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:00:00 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:00:00 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:00:00 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:00:00 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:00:10 -0500] "GET /eAyd/ServiciosAlertas.jsp HTTP/1.1" 200 14425
+192.168.0.8 - - [23/Jun/2021:21:00:10 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:00:10 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:00:10 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:00:11 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:00:18 -0500] "GET /eAyd/ServiciosAlertas.jsp HTTP/1.1" 200 14425
+192.168.0.8 - - [23/Jun/2021:21:00:18 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:00:18 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:00:18 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:00:27 -0500] "GET /eAyd/ServiciosAlertas.jsp HTTP/1.1" 200 14425
+192.168.0.8 - - [23/Jun/2021:21:00:27 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:00:27 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:00:27 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.8 - - [23/Jun/2021:21:00:27 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:21:00:27 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:00:27 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:21:00:27 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:21:00:27 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.8 - - [23/Jun/2021:21:00:27 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:00:27 -0500] "GET /eAyd/js/bootstrap.js HTTP/1.1" 200 48666
+192.168.0.8 - - [23/Jun/2021:21:00:27 -0500] "GET /eAyd/imagenes/b_SM001.jpg HTTP/1.1" 200 3222
+192.168.0.8 - - [23/Jun/2021:21:00:27 -0500] "GET /eAyd/imagenes/b_SM001_eco.jpg HTTP/1.1" 200 2968
+192.168.0.8 - - [23/Jun/2021:21:00:30 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 32376
+192.168.0.8 - - [23/Jun/2021:21:00:30 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:00:30 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:00:30 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:00:36 -0500] "POST /eAyd/cerrarsesion HTTP/1.1" 200 85
+192.168.0.8 - - [23/Jun/2021:21:00:36 -0500] "GET /eAyd/Login.jsp HTTP/1.1" 200 18899
+192.168.0.8 - - [23/Jun/2021:21:00:36 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:00:36 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:00:36 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:00:36 -0500] "GET /eAyd/images/veri_sign.gif HTTP/1.1" 200 3883
+192.168.0.8 - - [23/Jun/2021:21:00:44 -0500] "POST /eAyd/autenticacione HTTP/1.1" 302 -
+192.168.0.8 - - [23/Jun/2021:21:00:44 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 41603
+192.168.0.8 - - [23/Jun/2021:21:00:44 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:00:44 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:00:44 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:00:44 -0500] "GET /eAyd/imagenes/eliminar.png HTTP/1.1" 200 2870
+127.0.0.1 - - [23/Jun/2021:21:01:00 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:01:00 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:01:00 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:01:00 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:01:00 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:01:00 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:01:00 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:01:00 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:01:00 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:01:03 -0500] "GET /eAyd/ServiciosAlertas.jsp HTTP/1.1" 500 3134
+127.0.0.1 - - [23/Jun/2021:21:01:12 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:01:12 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:01:12 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:01:12 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:01:12 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:01:12 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:01:12 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:01:12 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:01:12 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:01:15 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:01:15 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:01:15 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:01:15 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:01:15 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:01:15 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:21:01:15 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:01:15 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:01:15 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:21:01:15 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:21:01:15 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.8 - - [23/Jun/2021:21:01:15 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:01:15 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.8 - - [23/Jun/2021:21:01:15 -0500] "GET /eAyd/ServiciosAlertas.jsp HTTP/1.1" 200 40590
+192.168.0.8 - - [23/Jun/2021:21:01:15 -0500] "GET /eAyd/js/bootstrap.js HTTP/1.1" 200 48666
+192.168.0.8 - - [23/Jun/2021:21:01:15 -0500] "GET /eAyd/imagenes/b_SM001_eco.jpg HTTP/1.1" 200 2968
+192.168.0.8 - - [23/Jun/2021:21:01:15 -0500] "GET /eAyd/imagenes/b_SM001.jpg HTTP/1.1" 200 3222
+192.168.0.8 - - [23/Jun/2021:21:01:15 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:01:27 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 41603
+192.168.0.8 - - [23/Jun/2021:21:01:27 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:01:27 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:01:27 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:01:27 -0500] "GET /eAyd/imagenes/eliminar.png HTTP/1.1" 200 2870
+192.168.0.8 - - [23/Jun/2021:21:01:33 -0500] "POST /eAyd/pagarserviciosQB HTTP/1.1" 302 -
+192.168.0.8 - - [23/Jun/2021:21:01:33 -0500] "GET /eAyd/QBController.jsp HTTP/1.1" 200 5756
+192.168.0.8 - - [23/Jun/2021:21:01:33 -0500] "GET /favicon.ico HTTP/1.1" 200 21630
+192.168.0.8 - - [23/Jun/2021:21:02:04 -0500] "GET /eAyd/QBResult.jsp?uid=ce03fd47-bb18-48f1-bab9-3459c0bca37d5440&responseCode=true&message=Flujo%20de%20pago%20cancelado.&prosaCode=C1&transactionIdentifier=2517A52945E28099ACA653B80080704F.prod02-vm-tx03&transactionDate=20210623&transactionTime=210136&traceNumber=&authorizationCode=&amount=000000004500&cardDigits=&bin=&affiliationNumber=8540935&masterId=0&brand=&Bank=&type=0&cardStatusCatId=0&aboutToExpire=false&save=false HTTP/1.1" 200 12291
+192.168.0.8 - - [23/Jun/2021:21:02:04 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:21:02:04 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:21:02:04 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:21:02:04 -0500] "GET /eAyd/archivos/5b1ddbe400c01d95eb9dd383_IconoSADM.png HTTP/1.1" 404 15039
+192.168.0.8 - - [23/Jun/2021:21:02:07 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 41603
+192.168.0.8 - - [23/Jun/2021:21:02:07 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:02:07 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:02:07 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:02:07 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.8 - - [23/Jun/2021:21:02:07 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.8 - - [23/Jun/2021:21:02:08 -0500] "GET /eAyd/imagenes/eliminar.png HTTP/1.1" 200 2870
+192.168.0.8 - - [23/Jun/2021:21:02:13 -0500] "GET /eAyd/Reportes.jsp HTTP/1.1" 200 20021
+192.168.0.8 - - [23/Jun/2021:21:02:13 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:02:13 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:02:13 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:02:13 -0500] "GET /eAyd/imagenes/generarreportes.PNG HTTP/1.1" 200 36981
+192.168.0.8 - - [23/Jun/2021:21:02:13 -0500] "GET /eAyd/imagenes/Consulta.PNG HTTP/1.1" 200 41956
+192.168.0.8 - - [23/Jun/2021:21:02:14 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:02:14 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:02:14 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:02:15 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 42816
+192.168.0.8 - - [23/Jun/2021:21:02:40 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:02:40 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:02:40 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:02:40 -0500] "GET /eAyd/UserEdit.jsp HTTP/1.1" 200 55768
+192.168.0.8 - - [23/Jun/2021:21:03:40 -0500] "GET /eAyd/Reportes.jsp HTTP/1.1" 200 20021
+192.168.0.8 - - [23/Jun/2021:21:03:40 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:03:40 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:03:40 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:03:40 -0500] "GET /eAyd/imagenes/generarreportes.PNG HTTP/1.1" 200 36981
+192.168.0.8 - - [23/Jun/2021:21:03:40 -0500] "GET /eAyd/imagenes/Consulta.PNG HTTP/1.1" 200 41956
+192.168.0.8 - - [23/Jun/2021:21:03:45 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:03:45 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:03:45 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:03:46 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 42816
+127.0.0.1 - - [23/Jun/2021:21:22:17 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:22:17 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:22:17 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:22:17 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:22:17 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:22:17 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:22:17 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:22:17 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:22:17 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:22:19 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:22:19 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:22:19 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:22:19 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:22:19 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:22:19 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:22:19 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:22:19 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:22:19 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:22:19 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:22:19 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:22:19 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:22:19 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:22:19 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:21:22:19 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:22:19 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:22:19 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:22:19 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:21:22:19 -0500] "GET /eAyd/js/script.js HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:21:22:19 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:21:22:19 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:21:22:20 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 43059
+192.168.0.8 - - [23/Jun/2021:21:22:20 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:22:20 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:21:28:43 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:28:43 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:28:43 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:28:43 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:28:43 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:28:43 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:28:43 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:28:43 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:28:43 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:28:46 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:28:46 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:28:46 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:28:46 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:28:46 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:28:46 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:28:46 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:28:46 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:28:46 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:28:47 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 43144
+192.168.0.8 - - [23/Jun/2021:21:28:47 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:28:47 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.7 - - [23/Jun/2021:21:29:04 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 109
+192.168.0.7 - - [23/Jun/2021:21:29:04 -0500] "GET /eAyd/sweetAlert.html HTTP/1.1" 200 404
+192.168.0.7 - - [23/Jun/2021:21:29:06 -0500] "GET /eAyd/Login.jsp HTTP/1.1" 200 18899
+192.168.0.7 - - [23/Jun/2021:21:29:06 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.7 - - [23/Jun/2021:21:29:06 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.7 - - [23/Jun/2021:21:29:06 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.7 - - [23/Jun/2021:21:29:06 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.7 - - [23/Jun/2021:21:29:06 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.7 - - [23/Jun/2021:21:29:06 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.7 - - [23/Jun/2021:21:29:06 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.7 - - [23/Jun/2021:21:29:06 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.7 - - [23/Jun/2021:21:29:06 -0500] "GET /eAyd/images/veri_sign.gif HTTP/1.1" 200 3883
+192.168.0.7 - - [23/Jun/2021:21:29:41 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:21:29:41 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:21:29:41 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:21:29:44 -0500] "GET /eAyd/Login.jsp HTTP/1.1" 200 18899
+192.168.0.7 - - [23/Jun/2021:21:29:44 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.7 - - [23/Jun/2021:21:29:44 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.7 - - [23/Jun/2021:21:29:44 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.7 - - [23/Jun/2021:21:29:44 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.7 - - [23/Jun/2021:21:29:44 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.7 - - [23/Jun/2021:21:29:44 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.7 - - [23/Jun/2021:21:29:44 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.7 - - [23/Jun/2021:21:29:44 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.7 - - [23/Jun/2021:21:29:44 -0500] "GET /eAyd/images/veri_sign.gif HTTP/1.1" 200 3883
+192.168.0.7 - - [23/Jun/2021:21:29:44 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:21:29:44 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:21:30:25 -0500] "POST /eAyd/autenticacione HTTP/1.1" 302 -
+192.168.0.7 - - [23/Jun/2021:21:30:26 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 41603
+192.168.0.7 - - [23/Jun/2021:21:30:26 -0500] "GET /eAyd/imagenes/eliminar.png HTTP/1.1" 200 2870
+192.168.0.7 - - [23/Jun/2021:21:30:26 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:21:30:26 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:21:30:28 -0500] "GET /eAyd/Reportes.jsp HTTP/1.1" 200 20021
+192.168.0.7 - - [23/Jun/2021:21:30:29 -0500] "GET /eAyd/imagenes/generarreportes.PNG HTTP/1.1" 200 36981
+192.168.0.7 - - [23/Jun/2021:21:30:29 -0500] "GET /eAyd/imagenes/Consulta.PNG HTTP/1.1" 200 41956
+192.168.0.7 - - [23/Jun/2021:21:30:29 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:21:30:29 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:21:30:32 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 43144
+192.168.0.7 - - [23/Jun/2021:21:30:32 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:21:30:32 -0500] "-" 400 -
+127.0.0.1 - - [23/Jun/2021:21:33:12 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:33:12 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:33:12 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:33:12 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:33:12 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:33:12 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:33:12 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:33:12 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:33:12 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:33:15 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:33:15 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:33:15 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:33:15 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:33:15 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:33:15 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:33:15 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:33:15 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:33:15 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:33:15 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:33:15 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:33:15 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:33:15 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:33:15 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:33:15 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:21:33:15 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:21:33:15 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:21:33:15 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:33:15 -0500] "GET /eAyd/js/script.js HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:21:33:15 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:21:33:15 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:33:16 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44445
+192.168.0.8 - - [23/Jun/2021:21:33:16 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:33:16 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:21:33:40 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:33:40 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:33:40 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:33:40 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:33:40 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:33:40 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:33:40 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:33:40 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:33:40 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:33:43 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:33:43 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:33:43 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:33:43 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44471
+192.168.0.8 - - [23/Jun/2021:21:33:43 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:33:43 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:21:34:06 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:34:06 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:34:06 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:34:06 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:34:06 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:34:06 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:34:06 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:34:06 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:34:06 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:34:07 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:34:07 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:34:07 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:34:07 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44454
+192.168.0.8 - - [23/Jun/2021:21:34:07 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:34:07 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:21:34:44 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:34:44 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:34:44 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:34:44 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:34:44 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:34:44 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:34:44 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:34:44 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:34:44 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:34:46 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:34:46 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:34:46 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:34:46 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44515
+192.168.0.8 - - [23/Jun/2021:21:34:46 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:34:47 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:21:36:04 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:36:04 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:36:04 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:36:04 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:36:04 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:36:04 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:36:04 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:36:04 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:36:04 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:36:06 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:36:06 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:36:06 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:36:06 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:36:06 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:36:06 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:36:06 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:36:10 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:36:10 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:36:10 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:36:10 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:36:10 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:36:10 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:36:10 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:36:10 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:36:10 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:36:11 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:36:11 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:36:11 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:36:12 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:36:12 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:36:12 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:36:12 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:36:12 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:36:12 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:36:12 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44231
+192.168.0.8 - - [23/Jun/2021:21:36:12 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:36:12 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:21:36:22 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:36:22 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:36:22 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:36:22 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:36:22 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:36:22 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:36:22 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:36:22 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:36:22 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:36:25 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:36:25 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:36:25 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:36:25 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44231
+192.168.0.8 - - [23/Jun/2021:21:36:25 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:36:25 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:21:37:00 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:37:00 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:37:00 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:37:00 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:37:00 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:37:00 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:37:00 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:37:00 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:37:00 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:37:14 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:37:14 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:37:14 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - - [23/Jun/2021:21:37:14 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:37:14 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:37:14 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:37:15 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:37:15 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:37:15 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:37:17 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:37:17 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:37:17 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:37:17 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:37:17 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44277
+192.168.0.8 - - [23/Jun/2021:21:37:17 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:37:17 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:21:37:37 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:37:37 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:37:37 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:37:37 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:37:37 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:37:37 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:37:37 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:37:37 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:37:37 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:37:39 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:37:39 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:37:39 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:37:39 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:37:40 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44306
+192.168.0.8 - - [23/Jun/2021:21:37:40 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:37:40 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.7 - - [23/Jun/2021:21:38:06 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44306
+192.168.0.7 - - [23/Jun/2021:21:38:06 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:21:38:06 -0500] "-" 400 -
+127.0.0.1 - - [23/Jun/2021:21:38:31 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:38:31 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:38:31 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:38:31 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:38:31 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:38:31 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:38:31 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:38:31 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:38:31 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:38:34 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:38:34 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:38:34 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:38:34 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:38:35 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44306
+192.168.0.8 - - [23/Jun/2021:21:38:35 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:38:35 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.7 - - [23/Jun/2021:21:38:48 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44306
+192.168.0.7 - - [23/Jun/2021:21:38:49 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:21:38:49 -0500] "-" 400 -
+127.0.0.1 - - [23/Jun/2021:21:39:14 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:39:14 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:39:14 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:39:14 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:39:14 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:39:14 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:39:14 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:39:14 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:39:14 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:39:18 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:39:18 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:39:18 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:39:18 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:39:18 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44295
+192.168.0.8 - - [23/Jun/2021:21:39:18 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:39:18 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.7 - - [23/Jun/2021:21:39:36 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 304 -
+192.168.0.7 - - [23/Jun/2021:21:39:36 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 304 -
+192.168.0.7 - - [23/Jun/2021:21:39:36 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 304 -
+192.168.0.7 - - [23/Jun/2021:21:39:36 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 304 -
+192.168.0.7 - - [23/Jun/2021:21:39:36 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 304 -
+192.168.0.7 - - [23/Jun/2021:21:39:36 -0500] "GET /eAyd/js/script.js HTTP/1.1" 304 -
+192.168.0.7 - - [23/Jun/2021:21:39:36 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 304 -
+192.168.0.7 - - [23/Jun/2021:21:39:36 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 304 -
+192.168.0.7 - - [23/Jun/2021:21:39:36 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44295
+192.168.0.7 - - [23/Jun/2021:21:39:36 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:21:39:36 -0500] "-" 400 -
+127.0.0.1 - - [23/Jun/2021:21:40:08 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:40:08 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:40:08 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:40:08 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:40:08 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:40:08 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:40:08 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:40:08 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:40:08 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:40:10 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:40:10 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:40:10 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:40:11 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44296
+192.168.0.8 - - [23/Jun/2021:21:40:11 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:40:11 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:21:40:20 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:40:20 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:40:20 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:40:20 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:40:20 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:40:20 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:40:20 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:40:20 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:40:20 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:40:23 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:40:23 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:40:23 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:40:24 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44296
+192.168.0.8 - - [23/Jun/2021:21:40:24 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:40:24 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:40:30 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:40:30 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:40:30 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:40:30 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44296
+192.168.0.8 - - [23/Jun/2021:21:40:30 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:40:30 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:21:40:35 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:40:35 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:40:35 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:40:35 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:40:35 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:40:35 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:40:35 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:40:35 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:40:35 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:40:37 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:40:37 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:40:37 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:40:38 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44297
+192.168.0.8 - - [23/Jun/2021:21:40:38 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:40:38 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.7 - - [23/Jun/2021:21:40:48 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44297
+192.168.0.7 - - [23/Jun/2021:21:40:48 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:21:40:48 -0500] "-" 400 -
+127.0.0.1 - - [23/Jun/2021:21:40:58 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:40:58 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:40:58 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:40:58 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:40:58 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:40:58 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:40:58 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:40:58 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:40:58 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:41:21 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:41:21 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:41:21 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:41:21 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:41:21 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:41:21 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:41:21 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:41:21 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:41:21 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:41:23 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:41:23 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:41:23 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:41:24 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44307
+192.168.0.8 - - [23/Jun/2021:21:41:24 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:41:24 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.7 - - [23/Jun/2021:21:41:34 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44307
+192.168.0.7 - - [23/Jun/2021:21:41:34 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:21:41:34 -0500] "-" 400 -
+127.0.0.1 - - [23/Jun/2021:21:42:23 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:42:23 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:42:23 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:42:23 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:42:23 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:42:23 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:42:23 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:42:23 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:42:23 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:42:32 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:42:32 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:42:32 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:42:32 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:42:32 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:42:32 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:42:32 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:42:32 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:42:32 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:43:10 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:43:10 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:43:10 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:43:10 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:43:10 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:43:10 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:43:10 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:43:10 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:43:10 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:43:16 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:43:16 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:43:16 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:43:16 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:43:16 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:43:16 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:43:16 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:43:16 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:43:16 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:43:16 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:43:16 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:43:16 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:21:43:16 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:21:43:16 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:21:43:16 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:43:16 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:43:16 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:21:43:16 -0500] "GET /eAyd/js/script.js HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:21:43:17 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44305
+192.168.0.8 - - [23/Jun/2021:21:43:17 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:43:17 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:21:43:32 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:43:32 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:43:32 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:43:32 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:43:32 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:43:32 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:43:32 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:43:32 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:43:32 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:43:35 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:43:35 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:43:35 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:43:36 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44212
+192.168.0.8 - - [23/Jun/2021:21:43:36 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:43:36 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:21:43:52 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:43:52 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:43:52 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:43:52 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:43:52 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:43:52 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:43:53 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:43:53 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:43:53 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:43:55 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:43:55 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:43:55 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:43:56 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44215
+192.168.0.8 - - [23/Jun/2021:21:43:56 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:43:56 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:21:44:03 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:44:03 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:44:03 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:44:03 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:44:03 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:44:03 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:44:03 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:44:04 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:44:04 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:44:23 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:44:23 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:44:23 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:44:23 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:44:23 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:44:23 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:44:23 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:44:23 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:44:23 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:44:26 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:44:26 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:44:26 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:44:26 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44242
+192.168.0.8 - - [23/Jun/2021:21:44:26 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:44:26 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.7 - - [23/Jun/2021:21:44:39 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44242
+192.168.0.7 - - [23/Jun/2021:21:44:39 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:21:44:39 -0500] "-" 400 -
+127.0.0.1 - - [23/Jun/2021:21:47:11 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:47:11 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:47:11 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:47:11 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:47:11 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:47:11 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:47:11 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:47:11 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:47:11 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:48:19 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:48:19 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:48:19 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:48:19 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:48:19 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:48:19 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:48:19 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:48:19 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:48:19 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:48:28 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:48:28 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:48:28 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:48:28 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:48:28 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:48:28 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:48:28 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:48:28 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:48:28 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:48:35 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:48:35 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:48:35 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:48:35 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:48:35 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:48:35 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:48:35 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:48:35 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:48:35 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:48:53 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:48:53 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:48:53 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:48:53 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:48:53 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:48:53 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:48:53 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:48:53 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:48:53 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:51:27 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:51:27 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:51:27 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:51:27 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:51:27 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:51:27 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:51:27 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:51:27 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:51:27 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:51:28 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44676
+192.168.0.8 - - [23/Jun/2021:21:51:28 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:51:28 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:21:53:01 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:53:01 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:53:01 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:53:01 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:53:01 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:53:01 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:53:01 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:53:01 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:53:01 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:53:03 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:53:03 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:53:04 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:53:04 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:53:04 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:53:04 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:53:04 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:53:04 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:53:04 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:53:04 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44704
+192.168.0.8 - - [23/Jun/2021:21:53:04 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:53:04 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:21:53:21 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:53:21 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:53:21 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - - [23/Jun/2021:21:53:21 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:53:21 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:53:21 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:53:21 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:53:21 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:53:21 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:53:25 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:53:25 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:53:25 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:53:25 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44802
+192.168.0.8 - - [23/Jun/2021:21:53:25 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:53:25 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:53:32 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:53:32 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:53:32 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:53:32 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44802
+192.168.0.8 - - [23/Jun/2021:21:53:32 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:53:32 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:21:53:48 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:53:48 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:53:48 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:53:48 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:53:48 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:53:48 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:53:49 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:53:49 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:53:49 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:53:51 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:53:51 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:53:51 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:53:51 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:21:53:51 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:21:53:51 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:53:51 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:21:53:51 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:53:51 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:53:51 -0500] "GET /eAyd/js/script.js HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:21:53:51 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:21:53:51 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44850
+192.168.0.8 - - [23/Jun/2021:21:53:51 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:53:51 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.7 - - [23/Jun/2021:21:54:12 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 304 -
+192.168.0.7 - - [23/Jun/2021:21:54:12 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 304 -
+192.168.0.7 - - [23/Jun/2021:21:54:12 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 304 -
+192.168.0.7 - - [23/Jun/2021:21:54:12 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 304 -
+192.168.0.7 - - [23/Jun/2021:21:54:12 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 304 -
+192.168.0.7 - - [23/Jun/2021:21:54:12 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 304 -
+192.168.0.7 - - [23/Jun/2021:21:54:12 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 304 -
+192.168.0.7 - - [23/Jun/2021:21:54:12 -0500] "GET /eAyd/js/script.js HTTP/1.1" 304 -
+192.168.0.7 - - [23/Jun/2021:21:54:13 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44850
+192.168.0.7 - - [23/Jun/2021:21:54:13 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:21:54:13 -0500] "-" 400 -
+127.0.0.1 - - [23/Jun/2021:21:54:37 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:54:37 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:54:37 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:54:37 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:54:37 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:54:37 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:54:38 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:54:38 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:54:38 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:54:40 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:21:54:40 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:21:54:40 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:21:54:40 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44820
+192.168.0.8 - - [23/Jun/2021:21:54:40 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:54:40 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:54:42 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44820
+192.168.0.8 - - [23/Jun/2021:21:54:42 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:54:42 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:21:55:02 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:55:02 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:55:02 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:55:02 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:55:02 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:55:02 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:55:02 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:55:02 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:55:02 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:55:05 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44833
+192.168.0.8 - - [23/Jun/2021:21:55:05 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:55:05 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.7 - - [23/Jun/2021:21:55:18 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44833
+192.168.0.7 - - [23/Jun/2021:21:55:18 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:21:55:18 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:21:55:57 -0500] "POST /eAyd/generarReporte HTTP/1.1" 404 15039
+192.168.0.7 - - [23/Jun/2021:21:55:58 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:21:55:58 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:21:56:04 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44833
+192.168.0.7 - - [23/Jun/2021:21:56:04 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.7 - - [23/Jun/2021:21:56:04 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.7 - - [23/Jun/2021:21:56:04 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.7 - - [23/Jun/2021:21:56:04 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.7 - - [23/Jun/2021:21:56:04 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.7 - - [23/Jun/2021:21:56:04 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.7 - - [23/Jun/2021:21:56:04 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.7 - - [23/Jun/2021:21:56:04 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.7 - - [23/Jun/2021:21:56:05 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:21:56:05 -0500] "-" 400 -
+127.0.0.1 - - [23/Jun/2021:21:57:59 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:57:59 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:57:59 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:57:59 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:58:00 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:58:00 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:58:00 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:58:00 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:58:00 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:58:27 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:58:27 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:58:27 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:58:27 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:58:27 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:58:27 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:58:27 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:58:27 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:58:27 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:59:09 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:59:09 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:59:09 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:59:09 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:59:09 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:59:09 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:59:09 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:59:10 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:59:10 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:59:12 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:59:12 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:59:12 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44925
+192.168.0.8 - - [23/Jun/2021:21:59:12 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:59:13 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:21:59:37 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:59:37 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:59:37 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:59:37 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:59:37 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:59:37 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:59:37 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:59:37 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:59:37 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:59:44 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:59:44 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:59:44 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:59:44 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:21:59:44 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:59:44 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:21:59:44 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:21:59:44 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:21:59:44 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:21:59:47 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:21:59:48 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44921
+192.168.0.8 - - [23/Jun/2021:21:59:48 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:21:59:48 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:22:00:34 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:00:34 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:00:34 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:00:34 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:00:34 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:00:34 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:00:34 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:22:00:34 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:00:34 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:01:18 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:01:18 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:01:18 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:01:18 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:01:18 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:01:18 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:22:01:18 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - - [23/Jun/2021:22:01:18 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:01:18 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:22:01:20 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:01:20 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:01:20 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:01:22 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44927
+192.168.0.8 - - [23/Jun/2021:22:01:22 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:01:22 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:05:33 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:05:33 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:05:33 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:05:33 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:05:33 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:05:33 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:05:33 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:05:33 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:22:05:33 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:22:05:33 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:22:05:33 -0500] "GET /eAyd/js/script.js HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:22:05:33 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:22:05:33 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44927
+192.168.0.8 - - [23/Jun/2021:22:05:33 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:05:33 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:22:11:24 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:11:24 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:11:24 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:11:24 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:11:24 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:11:24 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:11:24 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:22:11:24 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:11:24 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:22:11:27 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:11:27 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:11:27 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:11:27 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:11:27 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:11:27 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:22:11:27 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:22:11:27 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:22:11:27 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 44989
+192.168.0.8 - - [23/Jun/2021:22:11:28 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:11:28 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:22:12:05 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:12:05 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:12:05 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:12:05 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:12:05 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:12:05 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:12:05 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:22:12:05 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:12:05 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:12:29 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:12:29 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:12:29 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:12:29 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:12:29 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:12:29 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:12:29 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:22:12:29 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:12:29 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:12:33 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:12:33 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:12:34 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:12:34 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:12:34 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:12:34 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:12:34 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:22:12:34 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:12:34 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:22:12:35 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:12:35 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:12:35 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:12:36 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 45039
+192.168.0.8 - - [23/Jun/2021:22:12:36 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:12:36 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:13:28 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:13:28 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 45039
+192.168.0.8 - - [23/Jun/2021:22:13:28 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:13:28 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:14:34 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:14:34 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:14:34 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:14:34 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 45039
+192.168.0.8 - - [23/Jun/2021:22:14:34 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:14:34 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.7 - - [23/Jun/2021:22:14:51 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 304 -
+192.168.0.7 - - [23/Jun/2021:22:14:51 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 304 -
+192.168.0.7 - - [23/Jun/2021:22:14:51 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 304 -
+192.168.0.7 - - [23/Jun/2021:22:14:51 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 304 -
+192.168.0.7 - - [23/Jun/2021:22:14:51 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 304 -
+192.168.0.7 - - [23/Jun/2021:22:14:51 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 304 -
+192.168.0.7 - - [23/Jun/2021:22:14:51 -0500] "GET /eAyd/js/script.js HTTP/1.1" 304 -
+192.168.0.7 - - [23/Jun/2021:22:14:51 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 304 -
+192.168.0.7 - - [23/Jun/2021:22:14:51 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 45039
+192.168.0.7 - - [23/Jun/2021:22:14:52 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:22:14:52 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:22:15:00 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:22:15:00 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:22:15:03 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 45039
+192.168.0.7 - - [23/Jun/2021:22:15:03 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:22:15:03 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:22:15:07 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:22:15:07 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:22:16:45 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:22:16:45 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:22:16:48 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:22:16:48 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:22:16:51 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 45039
+192.168.0.7 - - [23/Jun/2021:22:16:52 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:22:16:52 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:22:16:55 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:22:16:55 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:22:17:01 -0500] "-" 400 -
+192.168.0.7 - - [23/Jun/2021:22:17:01 -0500] "-" 400 -
+127.0.0.1 - - [23/Jun/2021:22:18:34 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:18:34 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:18:34 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:18:34 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:18:34 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:18:34 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:18:34 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - eAydSAP [23/Jun/2021:22:18:34 -0500] "GET /manager/text/stop?path=/eAyd HTTP/1.1" 200 61
+127.0.0.1 - eAydSAP [23/Jun/2021:22:18:35 -0500] "GET /manager/text/start?path=/eAyd HTTP/1.1" 200 61
+127.0.0.1 - - [23/Jun/2021:22:18:35 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:18:35 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:18:35 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:18:35 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:18:35 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:18:35 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:18:35 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - eAydSAP [23/Jun/2021:22:18:35 -0500] "GET /manager/text/reload?path=/eAyd HTTP/1.1" 200 62
+127.0.0.1 - - [23/Jun/2021:22:18:35 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:18:35 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:18:40 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:18:40 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:18:40 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:18:40 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:18:40 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:18:40 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:18:40 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - eAydSAP [23/Jun/2021:22:18:40 -0500] "GET /manager/text/reload?path=/eAyd HTTP/1.1" 200 62
+127.0.0.1 - - [23/Jun/2021:22:18:40 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:18:40 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:18:46 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:18:46 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:18:46 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:18:46 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:18:46 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:18:46 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:18:46 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - eAydSAP [23/Jun/2021:22:18:46 -0500] "GET /manager/text/reload?path=/eAyd HTTP/1.1" 200 62
+127.0.0.1 - - [23/Jun/2021:22:18:46 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:18:46 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:22:18:48 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:18:48 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:18:48 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:18:48 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:18:48 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:22:18:48 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:18:48 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:18:48 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:18:48 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:18:48 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:22:18:48 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:22:18:48 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:22:18:48 -0500] "GET /eAyd/js/script.js HTTP/1.1" 304 -
+192.168.0.8 - - [23/Jun/2021:22:18:48 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 45039
+192.168.0.8 - - [23/Jun/2021:22:18:48 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:18:48 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:18:51 -0500] "POST /eAyd/generarReporte HTTP/1.1" 200 167
+127.0.0.1 - - [23/Jun/2021:22:20:01 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:20:01 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:20:01 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:20:01 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:20:01 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:20:01 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:20:01 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:22:20:01 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:20:01 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:20:37 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:20:37 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:20:37 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:20:37 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:20:37 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:20:37 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:20:37 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:22:20:37 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:20:37 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:21:01 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:21:01 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:21:01 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:21:01 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:21:01 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:21:01 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:21:02 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:22:21:02 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:21:02 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:21:39 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:21:39 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:21:39 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:21:39 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:21:39 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:21:39 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:21:39 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:22:21:39 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:21:39 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:22:44 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:22:44 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:22:44 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:22:44 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:22:44 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:22:44 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:22:44 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:22:22:44 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:22:44 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:22:22:46 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:22:46 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:22:46 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:22:47 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:22:47 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:22:47 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:22:47 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:22:47 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:22:47 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:22:47 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:22:22:47 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:22:22:47 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:22:22:47 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:22:22:47 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:22:22:47 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:22:22:47 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.8 - - [23/Jun/2021:22:22:47 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.8 - - [23/Jun/2021:22:22:47 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 45118
+192.168.0.8 - - [23/Jun/2021:22:22:49 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 45118
+192.168.0.8 - - [23/Jun/2021:22:22:50 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:22:50 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:22:23:07 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:23:07 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:23:07 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:23:07 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:23:07 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:23:07 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:23:07 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:22:23:07 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:23:07 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:22:23:10 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 45087
+192.168.0.8 - - [23/Jun/2021:22:23:10 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:23:10 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:22:25:54 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:25:54 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:25:54 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:25:54 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:25:54 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:25:54 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:25:54 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - eAydSAP [23/Jun/2021:22:25:54 -0500] "GET /manager/text/reload?path=/eAyd HTTP/1.1" 200 62
+127.0.0.1 - - [23/Jun/2021:22:25:54 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:25:54 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:27:15 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:27:15 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:27:15 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:27:15 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:27:15 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:27:15 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:27:15 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - eAydSAP [23/Jun/2021:22:27:15 -0500] "GET /manager/text/reload?path=/eAyd HTTP/1.1" 200 62
+127.0.0.1 - - [23/Jun/2021:22:27:15 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:27:15 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:22:27:20 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:27:20 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:27:20 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 45087
+192.168.0.8 - - [23/Jun/2021:22:27:20 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:27:20 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:27:36 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:27:36 -0500] "POST /eAyd/generarReporte HTTP/1.1" 200 167
+192.168.0.8 - - [23/Jun/2021:22:27:44 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:27:44 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:27:44 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:22:27:44 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:27:44 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:27:44 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:27:44 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:27:44 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:27:44 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:27:44 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:22:27:44 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:22:27:44 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:22:27:44 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:27:44 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:27:44 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:22:27:44 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:22:27:44 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.8 - - [23/Jun/2021:22:27:44 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.8 - - [23/Jun/2021:22:27:45 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 45087
+127.0.0.1 - - [23/Jun/2021:22:28:32 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:28:32 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:28:32 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:28:32 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:28:32 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:28:32 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:28:32 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - eAydSAP [23/Jun/2021:22:28:32 -0500] "GET /manager/text/reload?path=/eAyd HTTP/1.1" 200 62
+127.0.0.1 - - [23/Jun/2021:22:28:32 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:28:32 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:28:40 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:28:40 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:28:40 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:28:40 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:28:40 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:28:40 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:28:40 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - eAydSAP [23/Jun/2021:22:28:40 -0500] "GET /manager/text/reload?path=/eAyd HTTP/1.1" 200 62
+127.0.0.1 - - [23/Jun/2021:22:28:40 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:28:40 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:29:13 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:29:13 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:29:13 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:29:13 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:29:13 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:29:13 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:29:13 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - eAydSAP [23/Jun/2021:22:29:13 -0500] "GET /manager/text/reload?path=/eAyd HTTP/1.1" 200 62
+127.0.0.1 - - [23/Jun/2021:22:29:13 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:29:13 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:22:29:18 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:29:18 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:29:18 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:29:18 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:29:18 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:29:18 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:22:29:18 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:22:29:18 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:22:29:18 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 45087
+192.168.0.8 - - [23/Jun/2021:22:29:18 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:29:18 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:29:33 -0500] "POST /eAyd/generarReporte HTTP/1.1" 200 167
+127.0.0.1 - - [23/Jun/2021:22:30:48 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:30:48 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:30:48 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:30:48 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:30:48 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:30:48 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:30:48 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:22:30:48 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:30:48 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:22:31:22 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:31:22 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:31:22 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:31:22 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:31:22 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:31:22 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:31:22 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:31:22 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:22:31:22 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:31:22 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:31:22 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:31:22 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:22:31:22 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:22:31:22 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:22:31:22 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.8 - - [23/Jun/2021:22:31:22 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.8 - - [23/Jun/2021:22:31:22 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:22:31:22 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:22:31:23 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 45087
+192.168.0.8 - - [23/Jun/2021:22:31:24 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 45087
+192.168.0.8 - - [23/Jun/2021:22:31:24 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:31:24 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:31:47 -0500] "POST /eAyd/generarReporte HTTP/1.1" 200 167
+192.168.0.8 - - [23/Jun/2021:22:31:56 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:22:31:56 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:22:31:56 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:22:31:56 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:22:31:56 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.8 - - [23/Jun/2021:22:31:56 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:22:31:56 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:22:31:56 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.8 - - [23/Jun/2021:22:31:56 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 45087
+192.168.0.8 - - [23/Jun/2021:22:32:03 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 45087
+192.168.0.8 - - [23/Jun/2021:22:32:03 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:32:03 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:32:24 -0500] "POST /eAyd/generarReporte HTTP/1.1" 200 167
+127.0.0.1 - - [23/Jun/2021:22:34:29 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:34:29 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:34:29 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:34:29 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:34:29 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:34:29 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:34:29 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - eAydSAP [23/Jun/2021:22:34:29 -0500] "GET /manager/text/reload?path=/eAyd HTTP/1.1" 200 62
+127.0.0.1 - - [23/Jun/2021:22:34:29 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:34:29 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:22:34:33 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:34:33 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:34:33 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:34:33 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:34:33 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:34:33 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:34:33 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:22:34:33 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:34:33 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:34:33 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:34:33 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:34:33 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:34:33 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:22:34:33 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:22:34:33 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:22:34:33 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:22:34:33 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:22:34:33 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.8 - - [23/Jun/2021:22:34:33 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.8 - - [23/Jun/2021:22:34:33 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 45087
+127.0.0.1 - - [23/Jun/2021:22:35:20 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:35:20 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:35:20 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:35:20 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:35:20 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:35:20 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:35:20 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - eAydSAP [23/Jun/2021:22:35:21 -0500] "GET /manager/text/reload?path=/eAyd HTTP/1.1" 200 62
+127.0.0.1 - - [23/Jun/2021:22:35:21 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:35:21 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:22:35:22 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:22:35:22 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:22:35:22 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:22:35:23 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 45087
+192.168.0.8 - - [23/Jun/2021:22:35:23 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:35:23 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:35:44 -0500] "POST /eAyd/generarReporte HTTP/1.1" 200 167
+127.0.0.1 - - [23/Jun/2021:22:37:08 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:37:08 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:37:08 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:37:08 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:37:08 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:37:08 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:37:08 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:22:37:08 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:37:08 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:22:37:26 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:37:26 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:37:26 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:37:26 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:37:26 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:37:26 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:37:26 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:37:26 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:22:37:26 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:22:37:26 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.8 - - [23/Jun/2021:22:37:26 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:37:26 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:37:26 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:37:26 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:22:37:26 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:22:37:26 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.8 - - [23/Jun/2021:22:37:26 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:22:37:26 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:22:37:27 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 45420
+192.168.0.8 - - [23/Jun/2021:22:37:29 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 45420
+192.168.0.8 - - [23/Jun/2021:22:37:29 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:37:29 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:37:43 -0500] "POST /eAyd/generarReporte HTTP/1.1" 200 167
+127.0.0.1 - - [23/Jun/2021:22:38:27 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:38:27 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:38:27 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:38:27 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:22:38:27 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:38:27 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [23/Jun/2021:22:38:27 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [23/Jun/2021:22:38:27 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:22:38:27 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.8 - - [23/Jun/2021:22:38:37 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:38:38 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:38:38 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:38:38 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:38:38 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:38:38 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:38:38 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:38:38 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:38:38 -0500] "-" 400 -
+192.168.0.8 - - [23/Jun/2021:22:38:38 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.8 - - [23/Jun/2021:22:38:38 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.8 - - [23/Jun/2021:22:38:38 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.8 - - [23/Jun/2021:22:38:38 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.8 - - [23/Jun/2021:22:38:38 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.8 - - [23/Jun/2021:22:38:38 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.8 - - [23/Jun/2021:22:38:38 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.8 - - [23/Jun/2021:22:38:38 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.8 - - [23/Jun/2021:22:38:38 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 45432
+192.168.0.8 - - [23/Jun/2021:22:38:40 -0500] "GET /eAyd/GenerarReportes.jsp HTTP/1.1" 200 45432
+192.168.0.8 - - [23/Jun/2021:22:38:40 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.8 - - [23/Jun/2021:22:38:40 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [23/Jun/2021:23:09:42 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:23:09:42 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:23:09:42 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:23:09:42 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [23/Jun/2021:23:09:42 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [23/Jun/2021:23:09:42 -0500] "GET /manager/text/ HTTP/1.1" 200 39

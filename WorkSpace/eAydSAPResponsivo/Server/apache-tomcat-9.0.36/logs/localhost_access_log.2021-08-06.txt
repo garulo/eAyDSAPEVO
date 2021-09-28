@@ -1,0 +1,836 @@
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:01 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:01 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:04 -0500] "POST /eAyd/autenticacione HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:04 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:05 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:05 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:05 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:05 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:05 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:06 -0500] "GET /eAyd/imagenes/eliminar.png HTTP/1.1" 200 2870
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:08 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 51605
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:13 -0500] "POST /eAyd/pagarserviciosEVO HTTP/1.1" 200 1346
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:19 -0500] "GET /eAyd/ReturnCheckOutEVOC.jsp?parametro=c1 HTTP/1.1" 200 16171
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:19 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:19 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:19 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:19 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:19 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:19 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:19 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:19 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:19 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:19 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:19 -0500] "GET /eAyd/ReturnCheckOutEVOC.jsp?parametro=c1 HTTP/1.1" 200 16171
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:24 -0500] "GET /eAyd/imagenes/eliminar.png HTTP/1.1" 200 2870
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:25 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 51605
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:41 -0500] "POST /eAyd/pagarserviciosEVO HTTP/1.1" 200 1346
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:44 -0500] "GET /eAyd/ReturnCheckOutEVOC.jsp?parametro=c1 HTTP/1.1" 200 16171
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:44 -0500] "GET /eAyd/ReturnCheckOutEVOC.jsp?parametro=c1 HTTP/1.1" 200 16171
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:13:46 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 51605
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:28:51 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:28:51 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:28:52 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:28:52 -0500] "GET /eAyd/AgregarServicio.jsp HTTP/1.1" 200 27005
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:28:55 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:28:55 -0500] "POST /eAyd/registrarservicio HTTP/1.1" 200 114
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:28:55 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:28:55 -0500] "GET /eAyd/sweetAlertRegisServtrue.html?men=Se%20inserto%20correctamente HTTP/1.1" 200 381
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:28:57 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:28:59 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 56480
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:03 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:03 -0500] "POST /eAyd/servicedelete HTTP/1.1" 200 83
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:03 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:03 -0500] "GET /eAyd/sweetAlertServDeltrue.html HTTP/1.1" 200 387
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:05 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:07 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 51305
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:15 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:16 -0500] "POST /eAyd/servicedelete HTTP/1.1" 200 83
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:16 -0500] "GET /eAyd/sweetAlertServDeltrue.html HTTP/1.1" 200 387
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:16 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:17 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:17 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 46127
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:25 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:25 -0500] "GET /eAyd/AgregarServicio.jsp HTTP/1.1" 200 26634
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:28 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:29 -0500] "POST /eAyd/registrarservicio HTTP/1.1" 200 114
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:29 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:29 -0500] "GET /eAyd/sweetAlertRegisServtrue.html?men=Se%20inserto%20correctamente HTTP/1.1" 200 381
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:30 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:31 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 51401
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:36 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:36 -0500] "GET /eAyd/AgregarServicio.jsp HTTP/1.1" 200 27001
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:39 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:39 -0500] "POST /eAyd/registrarservicio HTTP/1.1" 200 114
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:39 -0500] "GET /eAyd/sweetAlertRegisServtrue.html?men=Se%20inserto%20correctamente HTTP/1.1" 200 381
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:39 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:40 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:41 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 56658
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:45 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:45 -0500] "GET /eAyd/AgregarServicio.jsp HTTP/1.1" 200 27359
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:51 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:51 -0500] "POST /eAyd/registrarservicio HTTP/1.1" 200 114
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:51 -0500] "GET /eAyd/sweetAlertRegisServtrue.html?men=Se%20inserto%20correctamente HTTP/1.1" 200 381
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:51 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:52 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:29:53 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 61540
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:47:16 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:47:16 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:47:16 -0500] "POST /eAyd/pagarserviciosEVO HTTP/1.1" 200 1346
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:47:20 -0500] "GET /eAyd/ReturnCheckOutEVOC.jsp?parametro=c1 HTTP/1.1" 200 16171
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:47:20 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:47:20 -0500] "GET /eAyd/ReturnCheckOutEVOC.jsp?parametro=c1 HTTP/1.1" 200 16171
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:47:23 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:47:26 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 61540
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:47:51 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:47:51 -0500] "POST /eAyd/pagarserviciosEVO HTTP/1.1" 200 1346
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:47:56 -0500] "GET /eAyd/ReturnCheckOutEVOC.jsp?parametro=c1 HTTP/1.1" 200 16171
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:47:56 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:47:56 -0500] "GET /eAyd/ReturnCheckOutEVOC.jsp?parametro=c1 HTTP/1.1" 200 16171
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:47:59 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:48:01 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 61540
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:48:59 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:49:00 -0500] "POST /eAyd/pagarserviciosEVO HTTP/1.1" 200 1346
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:49:03 -0500] "GET /eAyd/ReturnCheckOutEVOC.jsp?parametro=c1 HTTP/1.1" 200 16171
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:49:03 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:49:04 -0500] "GET /eAyd/ReturnCheckOutEVOC.jsp?parametro=c1 HTTP/1.1" 200 16171
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:49:06 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:49:09 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 61540
+127.0.0.1 - - [06/Aug/2021:11:52:28 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:11:52:28 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:11:52:28 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:11:52:28 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:11:52:28 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:11:52:28 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [06/Aug/2021:11:52:28 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [06/Aug/2021:11:52:28 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:11:52:28 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:11:53:28 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:11:53:28 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:11:53:28 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:11:53:28 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:11:53:28 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:11:53:28 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [06/Aug/2021:11:53:28 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [06/Aug/2021:11:53:28 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:11:53:28 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:11:54:01 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:11:54:01 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:11:54:01 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:11:54:01 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:11:54:01 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:11:54:01 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [06/Aug/2021:11:54:01 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [06/Aug/2021:11:54:01 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:11:54:01 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:11:54:35 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:11:54:35 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:11:54:35 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:11:54:35 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:11:54:35 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:11:54:35 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [06/Aug/2021:11:54:35 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [06/Aug/2021:11:54:35 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:11:54:35 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:55:00 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:55:00 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:55:06 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 62431
+127.0.0.1 - eAydSAP [06/Aug/2021:11:55:30 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:11:55:30 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:11:55:30 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:11:55:30 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - - [06/Aug/2021:11:55:30 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:11:55:30 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [06/Aug/2021:11:55:30 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [06/Aug/2021:11:55:30 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:11:55:30 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:55:31 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:55:32 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:55:32 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:55:32 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:55:32 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:55:32 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:55:32 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:55:34 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 62406
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:55:34 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:55:34 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [06/Aug/2021:11:56:26 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:11:56:26 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:11:56:26 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:11:56:26 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:11:56:27 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:11:56:27 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [06/Aug/2021:11:56:27 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [06/Aug/2021:11:56:27 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:11:56:27 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:56:29 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:56:29 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:56:29 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:56:33 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 61544
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:56:33 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:56:33 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:58:49 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:58:49 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:58:49 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:58:49 -0500] "POST /eAyd/cerrarsesion HTTP/1.1" 200 85
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:58:49 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:58:49 -0500] "GET /eAyd/Login.jsp HTTP/1.1" 200 19514
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:58:50 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:58:50 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:58:50 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:58:50 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:58:50 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:58:50 -0500] "GET /eAyd/images/veri_sign.gif HTTP/1.1" 200 3883
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:59:31 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:59:31 -0500] "POST /eAyd/autenticacione HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:59:32 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:59:32 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:59:32 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:59:32 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:59:32 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:59:32 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:59:32 -0500] "GET /eAyd/imagenes/eliminar.png HTTP/1.1" 200 2870
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:59:34 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 61544
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:11:59:49 -0500] "POST /eAyd/pagarserviciosEVO HTTP/1.1" 200 1346
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:01:48 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:01:48 -0500] "GET /eAyd/ReturnCheckOutEVOC.jsp?parametro=c1 HTTP/1.1" 200 16171
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:01:48 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:01:48 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:01:48 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:01:48 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:01:48 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:01:48 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:01:48 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:01:48 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:01:48 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:01:48 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:01:48 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:01:48 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:01:48 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:01:48 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:01:48 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:01:48 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:01:48 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:01:48 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:01:48 -0500] "GET /eAyd/ReturnCheckOutEVOC.jsp?parametro=c1 HTTP/1.1" 200 16171
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:01:54 -0500] "GET /eAyd/imagenes/eliminar.png HTTP/1.1" 200 2870
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:01:56 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 61544
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:04:17 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:04:17 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:04:17 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:12:04:18 -0500] "POST /eAyd/pagarserviciosEVO HTTP/1.1" 200 1346
+192.168.0.4 - - [06/Aug/2021:12:05:57 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:05:57 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:05:57 -0500] "GET /eAyd/ReturnCheckOutEVO.jsp?parametro=00&resultIndicator=8c6b197ea5c94094&sessionVersion=fd7dae9513 HTTP/1.1" 200 113
+192.168.0.4 - - [06/Aug/2021:12:05:58 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:05:58 -0500] "GET /eAyd/sweetAlert.html HTTP/1.1" 200 404
+192.168.0.4 - - [06/Aug/2021:12:06:04 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:06:04 -0500] "GET /eAyd/Login.jsp HTTP/1.1" 200 19514
+192.168.0.4 - - [06/Aug/2021:12:06:04 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:12:06:04 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:12:06:04 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:06:04 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:12:06:04 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.4 - - [06/Aug/2021:12:06:04 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.4 - - [06/Aug/2021:12:06:04 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.4 - - [06/Aug/2021:12:06:04 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.4 - - [06/Aug/2021:12:06:04 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:06:04 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:06:04 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.4 - - [06/Aug/2021:12:06:04 -0500] "GET /eAyd/images/veri_sign.gif HTTP/1.1" 200 3883
+192.168.0.4 - - [06/Aug/2021:12:06:11 -0500] "POST /eAyd/autenticacione HTTP/1.1" 302 -
+192.168.0.4 - - [06/Aug/2021:12:06:12 -0500] "GET /eAyd/imagenes/eliminar.png HTTP/1.1" 200 2870
+192.168.0.4 - - [06/Aug/2021:12:06:14 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 60123
+192.168.0.4 - - [06/Aug/2021:12:06:17 -0500] "POST /eAyd/pagarserviciosEVO HTTP/1.1" 200 1346
+192.168.0.4 - - [06/Aug/2021:12:06:59 -0500] "GET /eAyd/ReturnCheckOutEVO.jsp?parametro=00&resultIndicator=9fd8f9dad97e49c5&sessionVersion=0626e6f813 HTTP/1.1" 200 16297
+192.168.0.4 - - [06/Aug/2021:12:06:59 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:12:06:59 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:12:06:59 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.4 - - [06/Aug/2021:12:06:59 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:12:06:59 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.4 - - [06/Aug/2021:12:06:59 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.4 - - [06/Aug/2021:12:06:59 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.4 - - [06/Aug/2021:12:06:59 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.4 - - [06/Aug/2021:12:08:35 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:08:35 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:08:35 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:08:35 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:08:35 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:08:35 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:12:08:35 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:12:08:35 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:08:35 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:12:08:36 -0500] "GET /eAyd/imagenes/eliminar.png HTTP/1.1" 200 2870
+192.168.0.4 - - [06/Aug/2021:12:08:38 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 61351
+192.168.0.4 - - [06/Aug/2021:12:10:34 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:10:34 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:10:34 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:10:34 -0500] "POST /eAyd/cerrarsesion HTTP/1.1" 200 85
+192.168.0.4 - - [06/Aug/2021:12:10:34 -0500] "POST /eAyd/cerrarsesion HTTP/1.1" 200 85
+192.168.0.4 - - [06/Aug/2021:12:10:34 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:10:34 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:10:34 -0500] "GET /eAyd/Login.jsp HTTP/1.1" 200 19514
+192.168.0.4 - - [06/Aug/2021:12:10:34 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:12:10:34 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:12:10:34 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:10:34 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:12:10:34 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:10:35 -0500] "GET /eAyd/images/veri_sign.gif HTTP/1.1" 200 3883
+192.168.0.4 - - [06/Aug/2021:12:16:29 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:16:29 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:16:29 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:16:29 -0500] "POST /eAyd/autenticacione HTTP/1.1" 302 -
+192.168.0.4 - - [06/Aug/2021:12:16:29 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:16:29 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:12:16:29 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:16:29 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:16:29 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:12:16:29 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:12:16:30 -0500] "GET /eAyd/imagenes/eliminar.png HTTP/1.1" 200 2870
+192.168.0.4 - - [06/Aug/2021:12:16:32 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 61351
+192.168.0.4 - - [06/Aug/2021:12:16:39 -0500] "POST /eAyd/servicedelete HTTP/1.1" 200 83
+192.168.0.4 - - [06/Aug/2021:12:16:39 -0500] "GET /eAyd/sweetAlertServDeltrue.html HTTP/1.1" 200 387
+192.168.0.4 - - [06/Aug/2021:12:16:40 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:12:16:40 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:12:16:40 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:12:16:42 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 56184
+192.168.0.4 - - [06/Aug/2021:12:16:46 -0500] "POST /eAyd/servicedelete HTTP/1.1" 200 83
+192.168.0.4 - - [06/Aug/2021:12:16:46 -0500] "GET /eAyd/sweetAlertServDeltrue.html HTTP/1.1" 200 387
+192.168.0.4 - - [06/Aug/2021:12:16:48 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:12:16:48 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:12:16:48 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:12:16:49 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 51405
+192.168.0.4 - - [06/Aug/2021:12:16:55 -0500] "GET /eAyd/AgregarServicio.jsp HTTP/1.1" 200 27001
+192.168.0.4 - - [06/Aug/2021:12:16:55 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:12:16:55 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:12:16:55 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:12:16:57 -0500] "POST /eAyd/registrarservicio HTTP/1.1" 200 114
+192.168.0.4 - - [06/Aug/2021:12:16:57 -0500] "GET /eAyd/sweetAlertRegisServtrue.html?men=Se%20inserto%20correctamente HTTP/1.1" 200 381
+192.168.0.4 - - [06/Aug/2021:12:16:59 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:12:16:59 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:12:16:59 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:12:17:00 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 56678
+192.168.0.4 - - [06/Aug/2021:12:17:05 -0500] "GET /eAyd/AgregarServicio.jsp HTTP/1.1" 200 27373
+192.168.0.4 - - [06/Aug/2021:12:17:07 -0500] "POST /eAyd/registrarservicio HTTP/1.1" 200 114
+192.168.0.4 - - [06/Aug/2021:12:17:07 -0500] "GET /eAyd/sweetAlertRegisServtrue.html?men=Se%20inserto%20correctamente HTTP/1.1" 200 381
+192.168.0.4 - - [06/Aug/2021:12:17:11 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 61572
+192.168.0.4 - - [06/Aug/2021:12:17:17 -0500] "GET /eAyd/AgregarServicio.jsp HTTP/1.1" 200 27753
+192.168.0.4 - - [06/Aug/2021:12:17:19 -0500] "POST /eAyd/registrarservicio HTTP/1.1" 200 114
+192.168.0.4 - - [06/Aug/2021:12:17:19 -0500] "GET /eAyd/sweetAlertRegisServtrue.html?men=Se%20inserto%20correctamente HTTP/1.1" 200 381
+192.168.0.4 - - [06/Aug/2021:12:17:23 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 66448
+192.168.0.4 - - [06/Aug/2021:12:17:28 -0500] "GET /eAyd/AgregarServicio.jsp HTTP/1.1" 200 28116
+192.168.0.4 - - [06/Aug/2021:12:17:28 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 49206
+192.168.0.4 - - [06/Aug/2021:12:17:29 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 65606
+192.168.0.4 - - [06/Aug/2021:12:17:30 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:17:30 -0500] "POST /eAyd/registrarservicio HTTP/1.1" 200 114
+192.168.0.4 - - [06/Aug/2021:12:17:30 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:17:30 -0500] "GET /eAyd/sweetAlertRegisServtrue.html?men=Se%20inserto%20correctamente HTTP/1.1" 200 381
+192.168.0.4 - - [06/Aug/2021:12:17:32 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:17:35 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 71717
+192.168.0.4 - - [06/Aug/2021:12:17:52 -0500] "POST /eAyd/cerrarsesion HTTP/1.1" 200 85
+192.168.0.4 - - [06/Aug/2021:12:17:52 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:17:52 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:17:52 -0500] "GET /eAyd/Login.jsp HTTP/1.1" 200 19514
+192.168.0.4 - - [06/Aug/2021:12:17:52 -0500] "GET /eAyd/images/veri_sign.gif HTTP/1.1" 200 3883
+127.0.0.1 - - [06/Aug/2021:12:22:14 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:22:14 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:22:14 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:22:14 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:22:14 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:22:14 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [06/Aug/2021:12:22:14 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [06/Aug/2021:12:22:14 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:22:14 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.4 - - [06/Aug/2021:12:22:24 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:22:24 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:22:25 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:22:25 -0500] "POST /eAyd/autenticacione HTTP/1.1" 302 -
+192.168.0.4 - - [06/Aug/2021:12:22:25 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:22:25 -0500] "GET /eAyd/imagenes/eliminar.png HTTP/1.1" 200 2870
+192.168.0.4 - - [06/Aug/2021:12:22:29 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72665
+127.0.0.1 - - [06/Aug/2021:12:22:51 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:22:51 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:22:51 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:22:51 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:22:51 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:22:51 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [06/Aug/2021:12:22:51 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [06/Aug/2021:12:22:51 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:22:51 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:23:40 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:23:40 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:23:40 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:23:40 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:23:40 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:23:40 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [06/Aug/2021:12:23:40 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [06/Aug/2021:12:23:40 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:23:40 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.4 - - [06/Aug/2021:12:23:41 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:23:41 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:23:41 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:23:42 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:23:42 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:12:23:42 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:23:42 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:12:23:42 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:12:23:44 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72798
+192.168.0.4 - - [06/Aug/2021:12:23:44 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:23:44 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [06/Aug/2021:12:24:53 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:24:53 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:24:53 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:24:53 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:24:53 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:24:53 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [06/Aug/2021:12:24:53 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [06/Aug/2021:12:24:53 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:24:53 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.4 - - [06/Aug/2021:12:24:57 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:24:57 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:24:58 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:24:58 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:12:24:58 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:12:24:58 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:12:25:01 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72817
+192.168.0.4 - - [06/Aug/2021:12:25:01 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:25:01 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:25:46 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:12:25:46 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:12:25:46 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:25:46 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:12:25:49 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72817
+192.168.0.4 - - [06/Aug/2021:12:25:49 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:25:49 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [06/Aug/2021:12:26:04 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:26:04 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:26:04 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:26:04 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:26:04 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:26:05 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [06/Aug/2021:12:26:05 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [06/Aug/2021:12:26:05 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:26:05 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:26:20 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:26:20 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:26:20 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:26:20 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:26:20 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:26:20 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [06/Aug/2021:12:26:20 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [06/Aug/2021:12:26:20 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:26:20 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.4 - - [06/Aug/2021:12:26:21 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:12:26:21 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:12:26:21 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:12:26:24 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72794
+192.168.0.4 - - [06/Aug/2021:12:26:24 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:26:24 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [06/Aug/2021:12:28:13 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:28:13 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:28:13 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:28:13 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:28:13 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:28:13 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [06/Aug/2021:12:28:13 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [06/Aug/2021:12:28:13 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:28:13 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:28:39 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:28:39 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:28:39 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:28:39 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:28:39 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:28:39 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [06/Aug/2021:12:28:39 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [06/Aug/2021:12:28:39 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:28:39 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:28:51 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:28:51 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:28:51 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:28:51 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:28:51 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:28:51 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [06/Aug/2021:12:28:51 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [06/Aug/2021:12:28:51 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:28:51 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.4 - - [06/Aug/2021:12:29:06 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:29:06 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:29:06 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:29:06 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:29:06 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:29:06 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:12:29:06 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:12:29:06 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:12:29:10 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 71500
+192.168.0.4 - - [06/Aug/2021:12:29:10 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:29:10 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [06/Aug/2021:12:31:23 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:31:23 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:31:23 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:31:23 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:31:23 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:31:23 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [06/Aug/2021:12:31:23 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [06/Aug/2021:12:31:23 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:31:23 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.4 - - [06/Aug/2021:12:31:25 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:31:25 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:31:26 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:31:26 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:31:26 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:31:26 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:12:31:26 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:12:31:26 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:12:31:29 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72920
+192.168.0.4 - - [06/Aug/2021:12:31:30 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:31:30 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [06/Aug/2021:12:31:37 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:31:37 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:31:37 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:31:37 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:31:37 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:31:37 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [06/Aug/2021:12:31:37 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [06/Aug/2021:12:31:37 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:31:37 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.4 - - [06/Aug/2021:12:31:39 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:12:31:39 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:12:31:39 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:12:31:42 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72927
+192.168.0.4 - - [06/Aug/2021:12:31:42 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:31:42 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [06/Aug/2021:12:32:06 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:32:06 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:32:06 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:32:06 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:32:06 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:32:06 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [06/Aug/2021:12:32:06 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [06/Aug/2021:12:32:06 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:32:06 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.4 - - [06/Aug/2021:12:32:09 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:12:32:09 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:12:32:09 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:12:32:12 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72927
+192.168.0.4 - - [06/Aug/2021:12:32:12 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:32:12 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [06/Aug/2021:12:32:38 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:32:38 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:32:38 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:32:38 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:32:38 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:32:38 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [06/Aug/2021:12:32:38 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [06/Aug/2021:12:32:38 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:32:38 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.4 - - [06/Aug/2021:12:32:41 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:12:32:41 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:12:32:41 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:12:32:43 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72921
+192.168.0.4 - - [06/Aug/2021:12:32:43 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:32:43 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [06/Aug/2021:12:34:03 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:34:03 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:34:03 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:34:03 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:34:03 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:34:03 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [06/Aug/2021:12:34:03 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [06/Aug/2021:12:34:03 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:34:03 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.4 - - [06/Aug/2021:12:34:08 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:34:08 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:34:08 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:34:08 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:34:08 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:34:08 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:34:08 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:12:34:08 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:12:34:08 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:12:34:12 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72914
+192.168.0.4 - - [06/Aug/2021:12:34:12 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:34:12 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:34:25 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:12:34:25 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:12:34:25 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:12:34:27 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72914
+192.168.0.4 - - [06/Aug/2021:12:34:27 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:34:27 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:34:35 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:12:34:35 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:12:34:35 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:12:34:38 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72914
+192.168.0.4 - - [06/Aug/2021:12:34:38 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:34:38 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [06/Aug/2021:12:34:48 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:34:48 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:34:48 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:34:48 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:34:48 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:34:48 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [06/Aug/2021:12:34:48 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [06/Aug/2021:12:34:48 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:34:48 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.4 - - [06/Aug/2021:12:34:53 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72914
+192.168.0.4 - - [06/Aug/2021:12:34:53 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:34:53 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:35:12 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72914
+192.168.0.4 - - [06/Aug/2021:12:35:12 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:35:12 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:35:20 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72914
+192.168.0.4 - - [06/Aug/2021:12:35:21 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:35:21 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:35:27 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72914
+192.168.0.4 - - [06/Aug/2021:12:35:27 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:35:27 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [06/Aug/2021:12:36:39 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:36:39 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:36:39 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:36:39 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:36:39 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:36:39 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [06/Aug/2021:12:36:39 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [06/Aug/2021:12:36:39 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:36:39 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.4 - - [06/Aug/2021:12:36:40 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:36:40 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:36:40 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:36:43 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72931
+192.168.0.4 - - [06/Aug/2021:12:36:43 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:36:43 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:36:46 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:36:49 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72931
+192.168.0.4 - - [06/Aug/2021:12:36:49 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:36:49 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+127.0.0.1 - - [06/Aug/2021:12:36:54 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:36:54 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:36:54 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:36:54 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - - [06/Aug/2021:12:36:54 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:36:54 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+127.0.0.1 - eAydSAP [06/Aug/2021:12:36:54 -0500] "GET /manager/text/list HTTP/1.1" 200 353
+127.0.0.1 - - [06/Aug/2021:12:36:54 -0500] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - eAydSAP [06/Aug/2021:12:36:54 -0500] "GET /manager/text/ HTTP/1.1" 200 39
+192.168.0.4 - - [06/Aug/2021:12:36:56 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:37:00 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72914
+192.168.0.4 - - [06/Aug/2021:12:37:00 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:37:00 -0500] "GET /eAyd/imagenes/logo_transp.gif HTTP/1.1" 200 6718
+192.168.0.4 - - [06/Aug/2021:12:37:55 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:37:56 -0500] "GET /eAyd/ServiciosAlertas.jsp HTTP/1.1" 200 50394
+192.168.0.4 - - [06/Aug/2021:12:37:56 -0500] "GET /eAyd/js/bootstrap.js HTTP/1.1" 200 48666
+192.168.0.4 - - [06/Aug/2021:12:38:03 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:12:38:07 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72914
+192.168.0.4 - - [06/Aug/2021:16:56:14 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:16:56:14 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:16:56:14 -0500] "POST /eAyd/cerrarsesion HTTP/1.1" 200 85
+192.168.0.4 - - [06/Aug/2021:16:56:14 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:16:56:14 -0500] "GET /eAyd/Login.jsp HTTP/1.1" 200 19514
+192.168.0.4 - - [06/Aug/2021:16:56:14 -0500] "GET /eAyd/images/veri_sign.gif HTTP/1.1" 200 3883
+192.168.0.4 - - [06/Aug/2021:16:56:21 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:16:56:21 -0500] "POST /eAyd/autenticacione HTTP/1.1" 302 -
+192.168.0.4 - - [06/Aug/2021:16:56:26 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72914
+192.168.0.4 - - [06/Aug/2021:16:56:31 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:16:56:32 -0500] "POST /eAyd/pagarserviciosEVO HTTP/1.1" 200 1346
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:35 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:36 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:36 -0500] "GET /eAyd/ReturnCheckOutEVOC.jsp?parametro=c1 HTTP/1.1" 200 16171
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:36 -0500] "GET /eAyd/ReturnCheckOutEVOC.jsp?parametro=c1 HTTP/1.1" 200 16171
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:36 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:36 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:36 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:36 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:36 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:36 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:36 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:36 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:36 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:36 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:36 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:36 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:36 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:36 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:37 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 114
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:37 -0500] "GET /eAyd/sweetAlert.html HTTP/1.1" 200 404
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:39 -0500] "GET /eAyd/Login.jsp HTTP/1.1" 200 19514
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:39 -0500] "GET /eAyd/images/veri_sign.gif HTTP/1.1" 200 3883
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:46 -0500] "POST /eAyd/autenticacione HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:46 -0500] "GET /eAyd/imagenes/eliminar.png HTTP/1.1" 200 2870
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:48 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72914
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:52 -0500] "POST /eAyd/pagarserviciosEVO HTTP/1.1" 200 1346
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:55 -0500] "GET /eAyd/ReturnCheckOutEVOC.jsp?parametro=c1 HTTP/1.1" 200 16171
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:56:56 -0500] "GET /eAyd/ReturnCheckOutEVOC.jsp?parametro=c1 HTTP/1.1" 200 16171
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:57:01 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72914
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:58:39 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:58:39 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:58:39 -0500] "POST /eAyd/cerrarsesion HTTP/1.1" 200 85
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:58:39 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:58:39 -0500] "GET /eAyd/Login.jsp HTTP/1.1" 200 19514
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:58:39 -0500] "GET /eAyd/images/veri_sign.gif HTTP/1.1" 200 3883
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:58:50 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:58:50 -0500] "POST /eAyd/autenticacione HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:58:51 -0500] "-" 400 -
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:58:51 -0500] "GET /eAyd/imagenes/eliminar.png HTTP/1.1" 200 2870
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:58:53 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72914
+0:0:0:0:0:0:0:1 - - [06/Aug/2021:16:59:12 -0500] "POST /eAyd/pagarserviciosEVO HTTP/1.1" 200 1346
+192.168.0.4 - - [06/Aug/2021:17:02:14 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:02:14 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:02:14 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:02:14 -0500] "GET /eAyd/ReturnCheckOutEVO.jsp?parametro=00&resultIndicator=c057f3acb3ae490e&sessionVersion=2f7c8ea708 HTTP/1.1" 200 16411
+192.168.0.4 - - [06/Aug/2021:17:02:15 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:17:02:15 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:17:02:15 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:17:02:15 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.4 - - [06/Aug/2021:17:02:15 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.4 - - [06/Aug/2021:17:02:15 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.4 - - [06/Aug/2021:17:02:15 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.4 - - [06/Aug/2021:17:02:15 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.4 - - [06/Aug/2021:17:02:36 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:02:36 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:02:36 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:02:36 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:02:36 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:17:02:36 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:17:02:36 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:17:02:37 -0500] "GET /eAyd/imagenes/eliminar.png HTTP/1.1" 200 2870
+192.168.0.4 - - [06/Aug/2021:17:02:40 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72914
+192.168.0.4 - - [06/Aug/2021:17:02:53 -0500] "POST /eAyd/pagarserviciosEVO HTTP/1.1" 200 1346
+192.168.0.4 - - [06/Aug/2021:17:03:37 -0500] "GET /eAyd/ReturnCheckOutEVO.jsp?parametro=00&resultIndicator=5ed12ed01ffe41ac&sessionVersion=78647e7308 HTTP/1.1" 200 16297
+192.168.0.4 - - [06/Aug/2021:17:03:37 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:17:03:37 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:17:03:37 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:03:37 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:17:03:37 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:03:37 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:03:37 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:03:37 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:03:37 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:03:37 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.4 - - [06/Aug/2021:17:03:37 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.4 - - [06/Aug/2021:17:03:37 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.4 - - [06/Aug/2021:17:03:37 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.4 - - [06/Aug/2021:17:03:37 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.4 - - [06/Aug/2021:17:07:50 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:07:50 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:07:50 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:07:51 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:07:51 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:07:51 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:07:51 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:17:07:51 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:17:07:51 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:17:07:51 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72818
+192.168.0.4 - - [06/Aug/2021:17:07:51 -0500] "GET /eAyd/imagenes/eliminar.png HTTP/1.1" 200 2870
+192.168.0.4 - - [06/Aug/2021:17:08:13 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:17:08:13 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:17:08:13 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:17:08:14 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72818
+192.168.0.4 - - [06/Aug/2021:17:08:18 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:17:08:18 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:17:08:18 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:17:08:19 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72818
+192.168.0.4 - - [06/Aug/2021:17:08:25 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:17:08:25 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:17:08:25 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:17:08:25 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72818
+192.168.0.4 - - [06/Aug/2021:17:08:39 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:17:08:39 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:17:08:39 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:17:08:41 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72818
+192.168.0.4 - - [06/Aug/2021:17:09:13 -0500] "POST /eAyd/pagarserviciosEVO HTTP/1.1" 200 1346
+192.168.0.4 - - [06/Aug/2021:17:10:02 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:10:04 -0500] "GET /eAyd/ReturnCheckOutEVO.jsp?parametro=00&resultIndicator=0527c29abd5c4a22&sessionVersion=6ce55b8b08 HTTP/1.1" 200 16297
+192.168.0.4 - - [06/Aug/2021:17:10:04 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:17:10:04 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:17:10:04 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:10:04 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:10:04 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:10:04 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:10:04 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:10:04 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:10:04 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:17:10:04 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.4 - - [06/Aug/2021:17:10:04 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.4 - - [06/Aug/2021:17:10:04 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.4 - - [06/Aug/2021:17:10:04 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.4 - - [06/Aug/2021:17:10:04 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.4 - - [06/Aug/2021:17:12:03 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:12:03 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:12:03 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:12:03 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:12:03 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:12:03 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:17:12:03 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:17:12:03 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:17:12:03 -0500] "GET /eAyd/imagenes/eliminar.png HTTP/1.1" 200 2870
+192.168.0.4 - - [06/Aug/2021:17:12:10 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 72524
+192.168.0.4 - - [06/Aug/2021:17:12:13 -0500] "GET /eAyd/AgregarServicio.jsp HTTP/1.1" 200 28486
+192.168.0.4 - - [06/Aug/2021:17:12:13 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:17:12:13 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:17:12:13 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:17:12:25 -0500] "POST /eAyd/registrarservicio HTTP/1.1" 200 114
+192.168.0.4 - - [06/Aug/2021:17:12:25 -0500] "GET /eAyd/sweetAlertRegisServtrue.html?men=Se%20inserto%20correctamente HTTP/1.1" 200 381
+192.168.0.4 - - [06/Aug/2021:17:12:27 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:17:12:27 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:17:12:27 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:17:12:27 -0500] "GET /eAyd/imagenes/eliminar.png HTTP/1.1" 200 2870
+192.168.0.4 - - [06/Aug/2021:17:12:29 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 77311
+192.168.0.4 - - [06/Aug/2021:17:12:47 -0500] "GET /eAyd/AgregarServicio.jsp HTTP/1.1" 200 28859
+192.168.0.4 - - [06/Aug/2021:17:12:47 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:17:12:47 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:17:12:47 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:17:12:50 -0500] "POST /eAyd/registrarservicio HTTP/1.1" 200 114
+192.168.0.4 - - [06/Aug/2021:17:12:51 -0500] "GET /eAyd/sweetAlertRegisServtrue.html?men=Se%20inserto%20correctamente HTTP/1.1" 200 381
+192.168.0.4 - - [06/Aug/2021:17:12:52 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:17:12:52 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:17:12:52 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:17:12:57 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 82590
+192.168.0.4 - - [06/Aug/2021:17:13:00 -0500] "GET /eAyd/AgregarServicio.jsp HTTP/1.1" 200 29232
+192.168.0.4 - - [06/Aug/2021:17:13:00 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:17:13:00 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:17:13:00 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:17:13:02 -0500] "POST /eAyd/registrarservicio HTTP/1.1" 200 114
+192.168.0.4 - - [06/Aug/2021:17:13:02 -0500] "GET /eAyd/sweetAlertRegisServtrue.html?men=Se%20inserto%20correctamente HTTP/1.1" 200 381
+192.168.0.4 - - [06/Aug/2021:17:13:04 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:17:13:04 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:17:13:04 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:17:13:07 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 87467
+192.168.0.4 - - [06/Aug/2021:17:13:10 -0500] "POST /eAyd/servicedelete HTTP/1.1" 200 83
+192.168.0.4 - - [06/Aug/2021:17:13:10 -0500] "GET /eAyd/sweetAlertServDeltrue.html HTTP/1.1" 200 387
+192.168.0.4 - - [06/Aug/2021:17:13:14 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 82294
+192.168.0.4 - - [06/Aug/2021:17:13:48 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 82294
+192.168.0.4 - - [06/Aug/2021:17:13:51 -0500] "GET /eAyd/images/hover.png HTTP/1.1" 200 2838
+192.168.0.4 - - [06/Aug/2021:17:14:04 -0500] "POST /eAyd/pagarserviciosEVO HTTP/1.1" 200 1346
+192.168.0.4 - - [06/Aug/2021:17:14:41 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:14:45 -0500] "GET /eAyd/ReturnCheckOutEVO.jsp?parametro=00&resultIndicator=06f8c1063f0b4002&sessionVersion=254fcdb213 HTTP/1.1" 200 16297
+192.168.0.4 - - [06/Aug/2021:17:14:45 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:14:45 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:14:45 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:14:45 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:14:45 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:14:45 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:14:45 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:14:45 -0500] "GET /eAyd/styles/webflow3.css HTTP/1.1" 200 57283
+192.168.0.4 - - [06/Aug/2021:17:14:45 -0500] "GET /eAyd/styles/webflow4.css HTTP/1.1" 200 260617
+192.168.0.4 - - [06/Aug/2021:17:14:45 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:17:14:45 -0500] "GET /eAyd/styles/webflow1.css HTTP/1.1" 200 35292
+192.168.0.4 - - [06/Aug/2021:17:14:45 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:17:14:45 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:17:14:45 -0500] "GET /eAyd/js/jquery3.js HTTP/1.1" 200 86927
+192.168.0.4 - - [06/Aug/2021:17:14:45 -0500] "GET /eAyd/js/script.js HTTP/1.1" 200 3272
+192.168.0.4 - - [06/Aug/2021:17:21:32 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:21:32 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:21:32 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:21:32 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:21:32 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:17:21:32 -0500] "-" 400 -
+192.168.0.4 - - [06/Aug/2021:17:21:32 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:17:21:32 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:17:21:32 -0500] "GET /eAyd/imagenes/eliminar.png HTTP/1.1" 200 2870
+192.168.0.4 - - [06/Aug/2021:17:21:37 -0500] "GET /eAyd/Inicio.jsp HTTP/1.1" 200 81803
+192.168.0.4 - - [06/Aug/2021:17:21:52 -0500] "POST /eAyd/cerrarsesion HTTP/1.1" 200 85
+192.168.0.4 - - [06/Aug/2021:17:21:52 -0500] "POST /eAyd/cerrarsesion HTTP/1.1" 200 85
+192.168.0.4 - - [06/Aug/2021:17:21:52 -0500] "GET /eAyd/Login.jsp HTTP/1.1" 200 19514
+192.168.0.4 - - [06/Aug/2021:17:21:52 -0500] "GET /eAyd/styles/normalize.css HTTP/1.1" 200 6052
+192.168.0.4 - - [06/Aug/2021:17:21:52 -0500] "GET /eAyd/styles/main.css HTTP/1.1" 200 4281
+192.168.0.4 - - [06/Aug/2021:17:21:52 -0500] "GET /eAyd/styles/bootstrap.css HTTP/1.1" 200 144840
+192.168.0.4 - - [06/Aug/2021:17:21:52 -0500] "GET /eAyd/images/veri_sign.gif HTTP/1.1" 200 3883

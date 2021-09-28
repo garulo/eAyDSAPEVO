@@ -1,0 +1,197 @@
+
+.TopAzul {
+	background-image:  url(../imagenes/back_azul.gif);
+}
+.TopGris {
+	background-image:  url(../imagenes/back_gris.gif);
+}
+.TopSubMenu { 
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 11px;
+	color: Black;
+	text-decoration: none;
+	line-height: -2px;
+}
+.TopSubMenu:hover { 
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 11px;
+	color: Blue;
+	text-decoration: none;
+	line-height: -2px;
+}
+
+/* _______________ Menu Bar _______________ */
+
+TD.MenuRoof {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:bold;
+	color: #18316B;
+	text-shadow: #eee 1px 1px;
+	vertical-align: middle;
+	cursor: pointer;
+	padding: 0px 0px 0px 0px;
+}
+TD.MenuRoof A:link, TD.MenuRoof A:visited {
+	color: #000066;
+	text-decoration: none;
+}
+TD.MenuRoof A:link:hover, TD.MenuRoof A:visited:hover {
+	color: #00008B;
+}
+
+/* _______________ Cuadriculado Portada _______________ */
+
+TD.LineaIzquierda { 
+	border-left: 1px solid Navy; 
+}
+
+TD.LineaDerecha { 
+	border-right: 1px solid Navy; 
+}
+
+TD.LineaArriba { 
+	border-top: 1px solid Navy; 
+}
+
+TD.LineaAbajo { 
+	border-bottom: 1px solid Navy; 
+}
+
+/* _______________ Contenido            _______________ */
+
+TD.FondoMorado {
+	background-image:  url(../imagenes/back_morado.gif);
+	background-color: #CACAEA;
+}
+
+TD.FondoAmarillo {
+	background-image:  url(../imagenes/back_amarillo.gif);
+	background-color: #FFFFE0;
+}
+
+TD.FondoAmarilloClaro {
+	background-image:  url(../imagenes/back_amarillo_claro.gif);
+	background-color: #FFFFE7;
+}
+
+TD.FondoAzulClaro {
+	background-image:  url(../imagenes/back_azul_claro.gif);
+	background-color: #E5F2FF;
+}
+
+TD.Articulo {
+	font-family: Tahoma, Arial, Helvetica, sans-serif; 
+	font-size: 11px;
+	color: #333300;
+	vertical-align: middle;
+	padding: 10px 10px 10px 10px;	
+}
+
+TD.ArticuloTop {
+	font-family: Tahoma, Arial, Helvetica, sans-serif; 
+	font-size: 11px;
+	color: #333300;
+	vertical-align: top;
+	padding: 10px 10px 10px 10px;	
+}
+
+TD.Aviso {
+	font-family: Tahoma, Arial, Helvetica, sans-serif; 
+	font-size: 11px;
+	color: #333300;
+	vertical-align: middle;
+	padding: 0px 10px 0px 10px;	
+}
+
+/* _______________ Textos               _______________ */
+
+.TextoFooter {
+	font-family: "Arial Narrow", Arial, Helvetica, sans-serif; 
+	font-size: 11px;
+	color: #666666;
+	text-align: center;
+}
+
+.TituloPagina {
+	font-family: Tahoma, "Arial Narrow", Arial, Helvetica, sans-serif; 
+	font-size: 20px;
+	font-weight: bold;
+	color: #00008B;
+}
+
+.TituloArticulo {
+	font-family: Tahoma, "Arial Narrow", Arial, Helvetica, sans-serif; 
+	font-size: 18px;
+	color: #000066;
+}
+
+.TituloArticuloBlanco {
+	font-family: Tahoma, "Arial Narrow", Arial, Helvetica, sans-serif; 
+	font-size: 18px;
+	color: White;
+}
+
+.TituloNoticia {
+	font-family: Tahoma, "Arial Narrow", Arial, Helvetica, sans-serif; 
+	font-size: 12px;
+	color: #333;
+	font-weight: bold;
+}
+
+.TituloNota {
+	font-family: Tahoma, "Arial Narrow", Arial, Helvetica, sans-serif; 
+	font-size: 11px;
+	color: #333;
+	font-weight: bold;
+}
+
+A.mas:link, A.mas:visited {
+	font-family: Tahoma, "Arial Narrow", Arial, Helvetica, sans-serif; 
+	font-size: 11px;
+	color: #333;
+}
+
+A.mas:link:hover, A.mas:visited:hover {
+	font-family: Tahoma, "Arial Narrow", Arial, Helvetica, sans-serif; 
+	font-size: 11px;
+	color: #666666;
+	text-decoration: none;
+}
+.Texto11 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+.Texto12 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+.Texto10 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+}
+.Texto13 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #000000;
+}
+#TextoVertical {
+	font-family: Tahoma, "Arial Narrow", Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #00008B;
+        writing-mode: tb-rl;
+        filter: flipv fliph
+}
+#txtV {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    color: #333333;
+    valign: bottom;
+    writing-mode: tb-rl;
+    filter: flipv fliph
+}

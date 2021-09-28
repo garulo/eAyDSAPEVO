@@ -1,0 +1,20 @@
+{
+    "usuarios": [
+      {
+        "email": "arnulfomq@soriana.com",
+        "activo": "false"
+      },
+      {
+        "email": "acantu18@hotmail.com",
+        "activo": "true"
+      },
+      {
+        "email": "garulo.trabajo@gmail.com",
+        "activo": "true"
+      },
+      {
+        "email": "chaveznava@yahoo.com",
+        "activo": "false"
+      }
+    ]
+}

@@ -1,0 +1,1583 @@
+03-Aug-2021 10:35:47.929 SEVERE [https-openssl-nio-8443-exec-435] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception [An exception occurred processing [Inicio.jsp] at line [143]
+
+140:                                             //System.out.println("conn.getResponseCode() :: "+conn.getResponseCode());
+141:                                             if (conn.getResponseCode() != 200) {
+142:                                                 //System.out.println("Failed login : HTTP error code : " + conn.getResponseCode());
+143:                                                 response.sendRedirect("Login.jsp");
+144:                                                 //throw new RuntimeException("Failed : HTTP error code : " + conn.getResponseCode());
+145: 
+146:                                             } else {
+
+
+Stacktrace:] with root cause
+	java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+		at org.apache.catalina.connector.ResponseFacade.sendRedirect(ResponseFacade.java:488)
+		at org.apache.jsp.Inicio_jsp._jspService(Inicio_jsp.java:524)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:477)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+03-Aug-2021 10:35:51.476 SEVERE [https-openssl-nio-8443-exec-429] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception [An exception occurred processing [Inicio.jsp] at line [143]
+
+140:                                             //System.out.println("conn.getResponseCode() :: "+conn.getResponseCode());
+141:                                             if (conn.getResponseCode() != 200) {
+142:                                                 //System.out.println("Failed login : HTTP error code : " + conn.getResponseCode());
+143:                                                 response.sendRedirect("Login.jsp");
+144:                                                 //throw new RuntimeException("Failed : HTTP error code : " + conn.getResponseCode());
+145: 
+146:                                             } else {
+
+
+Stacktrace:] with root cause
+	java.lang.IllegalStateException: Cannot call sendRedirect() after the response has been committed
+		at org.apache.catalina.connector.ResponseFacade.sendRedirect(ResponseFacade.java:488)
+		at org.apache.jsp.Inicio_jsp._jspService(Inicio_jsp.java:524)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:477)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+03-Aug-2021 19:43:35.411 SEVERE [https-openssl-nio-8443-exec-469] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [PagarServiciosEVO] in context with path [/eAyd] threw exception
+	java.lang.NullPointerException
+		at com.ayd.servlet.PagarServiciosEVO.processRequest(PagarServiciosEVO.java:81)
+		at com.ayd.servlet.PagarServiciosEVO.doGet(PagarServiciosEVO.java:344)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+03-Aug-2021 19:43:40.685 SEVERE [https-openssl-nio-8443-exec-480] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [PagarServiciosEVO] in context with path [/eAyd] threw exception
+	java.lang.NullPointerException
+		at com.ayd.servlet.PagarServiciosEVO.processRequest(PagarServiciosEVO.java:81)
+		at com.ayd.servlet.PagarServiciosEVO.doGet(PagarServiciosEVO.java:344)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+03-Aug-2021 19:46:18.169 SEVERE [https-openssl-nio-8443-exec-481] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [PagarServiciosEVO] in context with path [/eAyd] threw exception
+	java.lang.NullPointerException
+		at com.ayd.servlet.PagarServiciosEVO.processRequest(PagarServiciosEVO.java:81)
+		at com.ayd.servlet.PagarServiciosEVO.doGet(PagarServiciosEVO.java:344)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+03-Aug-2021 23:09:18.844 SEVERE [https-openssl-nio-8443-exec-484] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [20] in the jsp file: [/ReturnCheckOutEVO.jsp]
+parametro cannot be resolved
+17:     System.out.println("usuario inicio sesion::return " + usuario);
+18:     
+19:     //PARAMETROS EN VISTA DE RESPUESTA
+20:         if (parametro.equalsIgnoreCase("00")) {
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+
+
+An error occurred at line: [21] in the jsp file: [/ReturnCheckOutEVO.jsp]
+mensajeParametro cannot be resolved to a variable
+18:     
+19:     //PARAMETROS EN VISTA DE RESPUESTA
+20:         if (parametro.equalsIgnoreCase("00")) {
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+
+
+An error occurred at line: [22] in the jsp file: [/ReturnCheckOutEVO.jsp]
+parametro cannot be resolved
+19:     //PARAMETROS EN VISTA DE RESPUESTA
+20:         if (parametro.equalsIgnoreCase("00")) {
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+
+
+An error occurred at line: [23] in the jsp file: [/ReturnCheckOutEVO.jsp]
+mensajeParametro cannot be resolved to a variable
+20:         if (parametro.equalsIgnoreCase("00")) {
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+
+
+An error occurred at line: [24] in the jsp file: [/ReturnCheckOutEVO.jsp]
+parametro cannot be resolved
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+27:             parametro = "x1";
+
+
+An error occurred at line: [25] in the jsp file: [/ReturnCheckOutEVO.jsp]
+mensajeParametro cannot be resolved to a variable
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+27:             parametro = "x1";
+28:             mensajeParametro = "No fue posible generar la transacciÃ³n."
+
+
+An error occurred at line: [27] in the jsp file: [/ReturnCheckOutEVO.jsp]
+parametro cannot be resolved to a variable
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+27:             parametro = "x1";
+28:             mensajeParametro = "No fue posible generar la transacciÃ³n."
+29:                     + "Vuelva a intentar mÃ¡s tarde";
+30:         }
+
+
+An error occurred at line: [28] in the jsp file: [/ReturnCheckOutEVO.jsp]
+mensajeParametro cannot be resolved to a variable
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+27:             parametro = "x1";
+28:             mensajeParametro = "No fue posible generar la transacciÃ³n."
+29:                     + "Vuelva a intentar mÃ¡s tarde";
+30:         }
+31: 
+
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [20] in the jsp file: [/ReturnCheckOutEVO.jsp]
+parametro cannot be resolved
+17:     System.out.println("usuario inicio sesion::return " + usuario);
+18:     
+19:     //PARAMETROS EN VISTA DE RESPUESTA
+20:         if (parametro.equalsIgnoreCase("00")) {
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+
+
+An error occurred at line: [21] in the jsp file: [/ReturnCheckOutEVO.jsp]
+mensajeParametro cannot be resolved to a variable
+18:     
+19:     //PARAMETROS EN VISTA DE RESPUESTA
+20:         if (parametro.equalsIgnoreCase("00")) {
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+
+
+An error occurred at line: [22] in the jsp file: [/ReturnCheckOutEVO.jsp]
+parametro cannot be resolved
+19:     //PARAMETROS EN VISTA DE RESPUESTA
+20:         if (parametro.equalsIgnoreCase("00")) {
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+
+
+An error occurred at line: [23] in the jsp file: [/ReturnCheckOutEVO.jsp]
+mensajeParametro cannot be resolved to a variable
+20:         if (parametro.equalsIgnoreCase("00")) {
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+
+
+An error occurred at line: [24] in the jsp file: [/ReturnCheckOutEVO.jsp]
+parametro cannot be resolved
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+27:             parametro = "x1";
+
+
+An error occurred at line: [25] in the jsp file: [/ReturnCheckOutEVO.jsp]
+mensajeParametro cannot be resolved to a variable
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+27:             parametro = "x1";
+28:             mensajeParametro = "No fue posible generar la transacciÃ³n."
+
+
+An error occurred at line: [27] in the jsp file: [/ReturnCheckOutEVO.jsp]
+parametro cannot be resolved to a variable
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+27:             parametro = "x1";
+28:             mensajeParametro = "No fue posible generar la transacciÃ³n."
+29:                     + "Vuelva a intentar mÃ¡s tarde";
+30:         }
+
+
+An error occurred at line: [28] in the jsp file: [/ReturnCheckOutEVO.jsp]
+mensajeParametro cannot be resolved to a variable
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+27:             parametro = "x1";
+28:             mensajeParametro = "No fue posible generar la transacciÃ³n."
+29:                     + "Vuelva a intentar mÃ¡s tarde";
+30:         }
+31: 
+
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:103)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:528)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:392)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:362)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:346)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:605)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:400)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+03-Aug-2021 23:09:37.889 SEVERE [https-openssl-nio-8443-exec-484] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [20] in the jsp file: [/ReturnCheckOutEVO.jsp]
+parametro cannot be resolved
+17:     System.out.println("usuario inicio sesion::return " + usuario);
+18:     
+19:     //PARAMETROS EN VISTA DE RESPUESTA
+20:         if (parametro.equalsIgnoreCase("00")) {
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+
+
+An error occurred at line: [21] in the jsp file: [/ReturnCheckOutEVO.jsp]
+mensajeParametro cannot be resolved to a variable
+18:     
+19:     //PARAMETROS EN VISTA DE RESPUESTA
+20:         if (parametro.equalsIgnoreCase("00")) {
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+
+
+An error occurred at line: [22] in the jsp file: [/ReturnCheckOutEVO.jsp]
+parametro cannot be resolved
+19:     //PARAMETROS EN VISTA DE RESPUESTA
+20:         if (parametro.equalsIgnoreCase("00")) {
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+
+
+An error occurred at line: [23] in the jsp file: [/ReturnCheckOutEVO.jsp]
+mensajeParametro cannot be resolved to a variable
+20:         if (parametro.equalsIgnoreCase("00")) {
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+
+
+An error occurred at line: [24] in the jsp file: [/ReturnCheckOutEVO.jsp]
+parametro cannot be resolved
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+27:             parametro = "x1";
+
+
+An error occurred at line: [25] in the jsp file: [/ReturnCheckOutEVO.jsp]
+mensajeParametro cannot be resolved to a variable
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+27:             parametro = "x1";
+28:             mensajeParametro = "No fue posible generar la transacciÃ³n."
+
+
+An error occurred at line: [27] in the jsp file: [/ReturnCheckOutEVO.jsp]
+parametro cannot be resolved to a variable
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+27:             parametro = "x1";
+28:             mensajeParametro = "No fue posible generar la transacciÃ³n."
+29:                     + "Vuelva a intentar mÃ¡s tarde";
+30:         }
+
+
+An error occurred at line: [28] in the jsp file: [/ReturnCheckOutEVO.jsp]
+mensajeParametro cannot be resolved to a variable
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+27:             parametro = "x1";
+28:             mensajeParametro = "No fue posible generar la transacciÃ³n."
+29:                     + "Vuelva a intentar mÃ¡s tarde";
+30:         }
+31: 
+
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [20] in the jsp file: [/ReturnCheckOutEVO.jsp]
+parametro cannot be resolved
+17:     System.out.println("usuario inicio sesion::return " + usuario);
+18:     
+19:     //PARAMETROS EN VISTA DE RESPUESTA
+20:         if (parametro.equalsIgnoreCase("00")) {
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+
+
+An error occurred at line: [21] in the jsp file: [/ReturnCheckOutEVO.jsp]
+mensajeParametro cannot be resolved to a variable
+18:     
+19:     //PARAMETROS EN VISTA DE RESPUESTA
+20:         if (parametro.equalsIgnoreCase("00")) {
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+
+
+An error occurred at line: [22] in the jsp file: [/ReturnCheckOutEVO.jsp]
+parametro cannot be resolved
+19:     //PARAMETROS EN VISTA DE RESPUESTA
+20:         if (parametro.equalsIgnoreCase("00")) {
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+
+
+An error occurred at line: [23] in the jsp file: [/ReturnCheckOutEVO.jsp]
+mensajeParametro cannot be resolved to a variable
+20:         if (parametro.equalsIgnoreCase("00")) {
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+
+
+An error occurred at line: [24] in the jsp file: [/ReturnCheckOutEVO.jsp]
+parametro cannot be resolved
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+27:             parametro = "x1";
+
+
+An error occurred at line: [25] in the jsp file: [/ReturnCheckOutEVO.jsp]
+mensajeParametro cannot be resolved to a variable
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+27:             parametro = "x1";
+28:             mensajeParametro = "No fue posible generar la transacciÃ³n."
+
+
+An error occurred at line: [27] in the jsp file: [/ReturnCheckOutEVO.jsp]
+parametro cannot be resolved to a variable
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+27:             parametro = "x1";
+28:             mensajeParametro = "No fue posible generar la transacciÃ³n."
+29:                     + "Vuelva a intentar mÃ¡s tarde";
+30:         }
+
+
+An error occurred at line: [28] in the jsp file: [/ReturnCheckOutEVO.jsp]
+mensajeParametro cannot be resolved to a variable
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+27:             parametro = "x1";
+28:             mensajeParametro = "No fue posible generar la transacciÃ³n."
+29:                     + "Vuelva a intentar mÃ¡s tarde";
+30:         }
+31: 
+
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:103)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:528)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:392)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:362)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:346)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:605)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:400)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+03-Aug-2021 23:10:10.927 SEVERE [https-openssl-nio-8443-exec-487] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: [20] in the jsp file: [/ReturnCheckOutEVO.jsp]
+parametro cannot be resolved
+17:     System.out.println("usuario inicio sesion::return " + usuario);
+18:     
+19:     //PARAMETROS EN VISTA DE RESPUESTA
+20:         if (parametro.equalsIgnoreCase("00")) {
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+
+
+An error occurred at line: [21] in the jsp file: [/ReturnCheckOutEVO.jsp]
+mensajeParametro cannot be resolved to a variable
+18:     
+19:     //PARAMETROS EN VISTA DE RESPUESTA
+20:         if (parametro.equalsIgnoreCase("00")) {
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+
+
+An error occurred at line: [22] in the jsp file: [/ReturnCheckOutEVO.jsp]
+parametro cannot be resolved
+19:     //PARAMETROS EN VISTA DE RESPUESTA
+20:         if (parametro.equalsIgnoreCase("00")) {
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+
+
+An error occurred at line: [23] in the jsp file: [/ReturnCheckOutEVO.jsp]
+mensajeParametro cannot be resolved to a variable
+20:         if (parametro.equalsIgnoreCase("00")) {
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+
+
+An error occurred at line: [24] in the jsp file: [/ReturnCheckOutEVO.jsp]
+parametro cannot be resolved
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+27:             parametro = "x1";
+
+
+An error occurred at line: [25] in the jsp file: [/ReturnCheckOutEVO.jsp]
+mensajeParametro cannot be resolved to a variable
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+27:             parametro = "x1";
+28:             mensajeParametro = "No fue posible generar la transacciÃ³n."
+
+
+An error occurred at line: [27] in the jsp file: [/ReturnCheckOutEVO.jsp]
+parametro cannot be resolved to a variable
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+27:             parametro = "x1";
+28:             mensajeParametro = "No fue posible generar la transacciÃ³n."
+29:                     + "Vuelva a intentar mÃ¡s tarde";
+30:         }
+
+
+An error occurred at line: [28] in the jsp file: [/ReturnCheckOutEVO.jsp]
+mensajeParametro cannot be resolved to a variable
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+27:             parametro = "x1";
+28:             mensajeParametro = "No fue posible generar la transacciÃ³n."
+29:                     + "Vuelva a intentar mÃ¡s tarde";
+30:         }
+31: 
+
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [20] in the jsp file: [/ReturnCheckOutEVO.jsp]
+parametro cannot be resolved
+17:     System.out.println("usuario inicio sesion::return " + usuario);
+18:     
+19:     //PARAMETROS EN VISTA DE RESPUESTA
+20:         if (parametro.equalsIgnoreCase("00")) {
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+
+
+An error occurred at line: [21] in the jsp file: [/ReturnCheckOutEVO.jsp]
+mensajeParametro cannot be resolved to a variable
+18:     
+19:     //PARAMETROS EN VISTA DE RESPUESTA
+20:         if (parametro.equalsIgnoreCase("00")) {
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+
+
+An error occurred at line: [22] in the jsp file: [/ReturnCheckOutEVO.jsp]
+parametro cannot be resolved
+19:     //PARAMETROS EN VISTA DE RESPUESTA
+20:         if (parametro.equalsIgnoreCase("00")) {
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+
+
+An error occurred at line: [23] in the jsp file: [/ReturnCheckOutEVO.jsp]
+mensajeParametro cannot be resolved to a variable
+20:         if (parametro.equalsIgnoreCase("00")) {
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+
+
+An error occurred at line: [24] in the jsp file: [/ReturnCheckOutEVO.jsp]
+parametro cannot be resolved
+21:             mensajeParametro = "Pago Exitoso";
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+27:             parametro = "x1";
+
+
+An error occurred at line: [25] in the jsp file: [/ReturnCheckOutEVO.jsp]
+mensajeParametro cannot be resolved to a variable
+22:         } else if (parametro.equalsIgnoreCase("c1")) {
+23:             mensajeParametro = "Pago Cancelado";
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+27:             parametro = "x1";
+28:             mensajeParametro = "No fue posible generar la transacciÃ³n."
+
+
+An error occurred at line: [27] in the jsp file: [/ReturnCheckOutEVO.jsp]
+parametro cannot be resolved to a variable
+24:         } else if (parametro.equalsIgnoreCase("tt")) {
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+27:             parametro = "x1";
+28:             mensajeParametro = "No fue posible generar la transacciÃ³n."
+29:                     + "Vuelva a intentar mÃ¡s tarde";
+30:         }
+
+
+An error occurred at line: [28] in the jsp file: [/ReturnCheckOutEVO.jsp]
+mensajeParametro cannot be resolved to a variable
+25:             mensajeParametro = "Se agotÃ³ el tiempo vuelva a intentar.";
+26:         } else {
+27:             parametro = "x1";
+28:             mensajeParametro = "No fue posible generar la transacciÃ³n."
+29:                     + "Vuelva a intentar mÃ¡s tarde";
+30:         }
+31: 
+
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:103)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:213)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:528)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:392)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:362)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:346)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:605)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:400)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+03-Aug-2021 23:15:39.107 SEVERE [https-openssl-nio-8443-exec-483] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception
+	java.io.IOException: An exception occurred processing [/ReturnCheckOutEVO.jsp] at line [83]
+
+80:             //Notificacion UpdateReferencia
+81:         String UPDATEREFERENCIA = oProperties.getProperty("UPDATEREFERENCIA");
+82:         System.out.println("" + UPDATEREFERENCIA + " ::: " + idReferece);
+83:         URL urlUpdateReferencia = new URL(UPDATEREFERENCIA);
+84:         HttpURLConnection conUpdateReferencia = (HttpURLConnection) urlUpdateReferencia.openConnection();
+85:         conUpdateReferencia.setRequestMethod("POST");
+86:         conUpdateReferencia.setRequestProperty("Content-Type", "application/json; utf-8");
+
+
+Stacktrace:
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:505)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.net.MalformedURLException
+		at java.net.URL.<init>(URL.java:634)
+		at java.net.URL.<init>(URL.java:497)
+		at java.net.URL.<init>(URL.java:446)
+		at org.apache.jsp.ReturnCheckOutEVO_jsp._jspService(ReturnCheckOutEVO_jsp.java:227)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:477)
+		... 25 more
+	Caused by: java.lang.NullPointerException
+		at java.net.URL.<init>(URL.java:539)
+		... 31 more
+03-Aug-2021 23:20:36.802 SEVERE [https-openssl-nio-8443-exec-481] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception [An exception occurred processing [/ReturnCheckOutEVO.jsp] at line [39]
+
+36:         String nombreusuario = (String) objSession.getAttribute("nombreusuario");
+37:         String token = (String) objSession.getAttribute("token");
+38:         String nispagardt = (String) objSession.getAttribute("nispagardt");
+39:         String[] listNisPagar = nispagardt.split("nis");
+40:         String finalamountcalc = (String) objSession.getAttribute("finalamountcalc");
+41:         String idReferece = (String) objSession.getAttribute("idReferece");
+42: 
+
+
+Stacktrace:] with root cause
+	java.lang.NullPointerException
+		at org.apache.jsp.ReturnCheckOutEVO_jsp._jspService(ReturnCheckOutEVO_jsp.java:183)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:477)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+03-Aug-2021 23:22:07.088 SEVERE [https-openssl-nio-8443-exec-485] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception [An exception occurred processing [/ReturnCheckOutEVO.jsp] at line [39]
+
+36:         String nombreusuario = (String) objSession.getAttribute("nombreusuario");
+37:         String token = (String) objSession.getAttribute("token");
+38:         String nispagardt = (String) objSession.getAttribute("nispagardt");
+39:         String[] listNisPagar = nispagardt.split("nis");
+40:         String finalamountcalc = (String) objSession.getAttribute("finalamountcalc");
+41:         String idReferece = (String) objSession.getAttribute("idReferece");
+42: 
+
+
+Stacktrace:] with root cause
+	java.lang.NullPointerException
+		at org.apache.jsp.ReturnCheckOutEVO_jsp._jspService(ReturnCheckOutEVO_jsp.java:183)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:477)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+03-Aug-2021 23:25:07.102 SEVERE [https-openssl-nio-8443-exec-484] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception [An exception occurred processing [/ReturnCheckOutEVO.jsp] at line [37]
+
+34:     String nombreusuario = (String) objSession.getAttribute("nombreusuario");
+35:     String token = (String) objSession.getAttribute("token");
+36:     String nispagardt = (String) objSession.getAttribute("nispagardt");
+37:     String[] listNisPagar = nispagardt.split("nis");
+38:     String finalamountcalc = (String) objSession.getAttribute("finalamountcalc");
+39:     String idReferece = (String) objSession.getAttribute("idReferece");
+40: 
+
+
+Stacktrace:] with root cause
+	java.lang.NullPointerException
+		at org.apache.jsp.ReturnCheckOutEVO_jsp._jspService(ReturnCheckOutEVO_jsp.java:181)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:477)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+03-Aug-2021 23:25:07.106 SEVERE [https-openssl-nio-8443-exec-488] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception
+	java.io.IOException: An exception occurred processing [/ReturnCheckOutEVO.jsp] at line [71]
+
+68: 
+69:         String UPDATEREFERENCIA = oProperties.getProperty("UPDATEREFERENCIA");
+70:         System.out.println("" + UPDATEREFERENCIA + " ::: " + idReferece);
+71:         URL urlUpdateReferencia = new URL(UPDATEREFERENCIA);
+72:         HttpURLConnection conUpdateReferencia = (HttpURLConnection) urlUpdateReferencia.openConnection();
+73:         conUpdateReferencia.setRequestMethod("POST");
+74:         conUpdateReferencia.setRequestProperty("Content-Type", "application/json; utf-8");
+
+
+Stacktrace:
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:505)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.net.MalformedURLException
+		at java.net.URL.<init>(URL.java:634)
+		at java.net.URL.<init>(URL.java:497)
+		at java.net.URL.<init>(URL.java:446)
+		at org.apache.jsp.ReturnCheckOutEVO_jsp._jspService(ReturnCheckOutEVO_jsp.java:215)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:477)
+		... 25 more
+	Caused by: java.lang.NullPointerException
+		at java.net.URL.<init>(URL.java:539)
+		... 31 more
+03-Aug-2021 23:27:11.827 SEVERE [https-openssl-nio-8443-exec-479] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception [An exception occurred processing [/ReturnCheckOutEVO.jsp] at line [37]
+
+34:     String nombreusuario = (String) objSession.getAttribute("nombreusuario");
+35:     String token = (String) objSession.getAttribute("token");
+36:     String nispagardt = (String) objSession.getAttribute("nispagardt");
+37:     String[] listNisPagar = nispagardt.split("nis");
+38:     String finalamountcalc = (String) objSession.getAttribute("finalamountcalc");
+39:     String idReferece = (String) objSession.getAttribute("idReferece");
+40: 
+
+
+Stacktrace:] with root cause
+	java.lang.NullPointerException
+		at org.apache.jsp.ReturnCheckOutEVO_jsp._jspService(ReturnCheckOutEVO_jsp.java:181)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:477)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+03-Aug-2021 23:27:11.828 SEVERE [https-openssl-nio-8443-exec-484] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception
+	java.io.IOException: An exception occurred processing [/ReturnCheckOutEVO.jsp] at line [71]
+
+68: 
+69:         String UPDATEREFERENCIA = oProperties.getProperty("UPDATEREFERENCIA");
+70:         System.out.println("" + UPDATEREFERENCIA + " ::: " + idReferece);
+71:         URL urlUpdateReferencia = new URL(UPDATEREFERENCIA+ idReferece);
+72:         HttpURLConnection conUpdateReferencia = (HttpURLConnection) urlUpdateReferencia.openConnection();
+73:         conUpdateReferencia.setRequestMethod("POST");
+74:         conUpdateReferencia.setRequestProperty("Content-Type", "application/json; utf-8");
+
+
+Stacktrace:
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:505)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.net.MalformedURLException: no protocol: null26e2468cc5fb472
+		at java.net.URL.<init>(URL.java:600)
+		at java.net.URL.<init>(URL.java:497)
+		at java.net.URL.<init>(URL.java:446)
+		at org.apache.jsp.ReturnCheckOutEVO_jsp._jspService(ReturnCheckOutEVO_jsp.java:215)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:477)
+		... 25 more
+03-Aug-2021 23:31:10.249 SEVERE [https-openssl-nio-8443-exec-486] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception [An exception occurred processing [/ReturnCheckOutEVO.jsp] at line [37]
+
+34:     String nombreusuario = (String) objSession.getAttribute("nombreusuario");
+35:     String token = (String) objSession.getAttribute("token");
+36:     String nispagardt = (String) objSession.getAttribute("nispagardt");
+37:     String[] listNisPagar = nispagardt.split("nis");
+38:     String finalamountcalc = (String) objSession.getAttribute("finalamountcalc");
+39:     String idReferece = (String) objSession.getAttribute("idReferece");
+40: 
+
+
+Stacktrace:] with root cause
+	java.lang.NullPointerException
+		at org.apache.jsp.ReturnCheckOutEVO_jsp._jspService(ReturnCheckOutEVO_jsp.java:181)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:477)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+03-Aug-2021 23:31:10.313 SEVERE [https-openssl-nio-8443-exec-483] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception
+	java.io.IOException: An exception occurred processing [/ReturnCheckOutEVO.jsp] at line [90]
+
+87:         }
+88: 
+89:         try (BufferedReader bdata = new BufferedReader(
+90:                 new InputStreamReader(conUpdateReferencia.getInputStream(), "utf-8"))) {
+91:             String jsondata = new String();
+92:             InputStream inputStreamdata = conUpdateReferencia.getInputStream();
+93:             BufferedReader bufferedReaderdata = new BufferedReader(new InputStreamReader(inputStreamdata), 1);
+
+
+Stacktrace:
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:505)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.io.FileNotFoundException: https://ayd.sadm.gob.mx/AppiDv3/UpdateReferenciaSQLb7ce60a4e00644e
+		at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1896)
+		at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+		at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+		at org.apache.jsp.ReturnCheckOutEVO_jsp._jspService(ReturnCheckOutEVO_jsp.java:234)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:477)
+		... 25 more
+03-Aug-2021 23:34:01.008 SEVERE [https-openssl-nio-8443-exec-480] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception [An exception occurred processing [/ReturnCheckOutEVO.jsp] at line [37]
+
+34:     String nombreusuario = (String) objSession.getAttribute("nombreusuario");
+35:     String token = (String) objSession.getAttribute("token");
+36:     String nispagardt = (String) objSession.getAttribute("nispagardt");
+37:     String[] listNisPagar = nispagardt.split("nis");
+38:     String finalamountcalc = (String) objSession.getAttribute("finalamountcalc");
+39:     String idReferece = (String) objSession.getAttribute("idReferece");
+40: 
+
+
+Stacktrace:] with root cause
+	java.lang.NullPointerException
+		at org.apache.jsp.ReturnCheckOutEVO_jsp._jspService(ReturnCheckOutEVO_jsp.java:181)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:477)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+03-Aug-2021 23:34:01.073 SEVERE [https-openssl-nio-8443-exec-486] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception
+	java.io.IOException: An exception occurred processing [/ReturnCheckOutEVO.jsp] at line [90]
+
+87:         }
+88: 
+89:         try (BufferedReader bdata = new BufferedReader(
+90:                 new InputStreamReader(conUpdateReferencia.getInputStream(), "utf-8"))) {
+91:             String jsondata = new String();
+92:             InputStream inputStreamdata = conUpdateReferencia.getInputStream();
+93:             BufferedReader bufferedReaderdata = new BufferedReader(new InputStreamReader(inputStreamdata), 1);
+
+
+Stacktrace:
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:505)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.io.FileNotFoundException: https://ayd.sadm.gob.mx/AppiDv3/UpdateReferenciaSQLbc55c79cfb6f4b3
+		at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1896)
+		at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+		at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+		at org.apache.jsp.ReturnCheckOutEVO_jsp._jspService(ReturnCheckOutEVO_jsp.java:234)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:477)
+		... 25 more
+03-Aug-2021 23:38:00.473 SEVERE [https-openssl-nio-8443-exec-484] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception [An exception occurred processing [/ReturnCheckOutEVO.jsp] at line [37]
+
+34:     String nombreusuario = (String) objSession.getAttribute("nombreusuario");
+35:     String token = (String) objSession.getAttribute("token");
+36:     String nispagardt = (String) objSession.getAttribute("nispagardt");
+37:     String[] listNisPagar = nispagardt.split("nis");
+38:     String finalamountcalc = (String) objSession.getAttribute("finalamountcalc");
+39:     String idReferece = (String) objSession.getAttribute("idReferece");
+40: 
+
+
+Stacktrace:] with root cause
+	java.lang.NullPointerException
+		at org.apache.jsp.ReturnCheckOutEVO_jsp._jspService(ReturnCheckOutEVO_jsp.java:181)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:477)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+03-Aug-2021 23:38:00.534 SEVERE [https-openssl-nio-8443-exec-480] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception
+	java.io.IOException: An exception occurred processing [/ReturnCheckOutEVO.jsp] at line [90]
+
+87:         }
+88: 
+89:         try (BufferedReader bdata = new BufferedReader(
+90:                 new InputStreamReader(conUpdateReferencia.getInputStream(), "utf-8"))) {
+91:             String jsondata = new String();
+92:             InputStream inputStreamdata = conUpdateReferencia.getInputStream();
+93:             BufferedReader bufferedReaderdata = new BufferedReader(new InputStreamReader(inputStreamdata), 1);
+
+
+Stacktrace:
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:505)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.io.FileNotFoundException: https://ayd.sadm.gob.mx/AppiDv3/UpdateReferenciaSQL1e90d78a93aa433
+		at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1896)
+		at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+		at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+		at org.apache.jsp.ReturnCheckOutEVO_jsp._jspService(ReturnCheckOutEVO_jsp.java:234)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:477)
+		... 25 more
+03-Aug-2021 23:39:20.644 SEVERE [https-openssl-nio-8443-exec-486] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception [An exception occurred processing [/ReturnCheckOutEVO.jsp] at line [37]
+
+34:     String nombreusuario = (String) objSession.getAttribute("nombreusuario");
+35:     String token = (String) objSession.getAttribute("token");
+36:     String nispagardt = (String) objSession.getAttribute("nispagardt");
+37:     String[] listNisPagar = nispagardt.split("nis");
+38:     String finalamountcalc = (String) objSession.getAttribute("finalamountcalc");
+39:     String idReferece = (String) objSession.getAttribute("idReferece");
+40: 
+
+
+Stacktrace:] with root cause
+	java.lang.NullPointerException
+		at org.apache.jsp.ReturnCheckOutEVO_jsp._jspService(ReturnCheckOutEVO_jsp.java:181)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:477)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+03-Aug-2021 23:39:20.668 SEVERE [https-openssl-nio-8443-exec-484] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception
+	java.io.IOException: An exception occurred processing [/ReturnCheckOutEVO.jsp] at line [90]
+
+87:         }
+88: 
+89:         try (BufferedReader bdata = new BufferedReader(
+90:                 new InputStreamReader(conUpdateReferencia.getInputStream(), "utf-8"))) {
+91:             String jsondata = new String();
+92:             InputStream inputStreamdata = conUpdateReferencia.getInputStream();
+93:             BufferedReader bufferedReaderdata = new BufferedReader(new InputStreamReader(inputStreamdata), 1);
+
+
+Stacktrace:
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:505)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.io.FileNotFoundException: https://ayd.sadm.gob.mx/AppiDv3/UpdateReferenciaSQLc16420bc750a4b3
+		at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1896)
+		at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+		at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+		at org.apache.jsp.ReturnCheckOutEVO_jsp._jspService(ReturnCheckOutEVO_jsp.java:234)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:477)
+		... 25 more
+03-Aug-2021 23:40:09.487 SEVERE [https-openssl-nio-8443-exec-479] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception [An exception occurred processing [/ReturnCheckOutEVO.jsp] at line [37]
+
+34:     String nombreusuario = (String) objSession.getAttribute("nombreusuario");
+35:     String token = (String) objSession.getAttribute("token");
+36:     String nispagardt = (String) objSession.getAttribute("nispagardt");
+37:     String[] listNisPagar = nispagardt.split("nis");
+38:     String finalamountcalc = (String) objSession.getAttribute("finalamountcalc");
+39:     String idReferece = (String) objSession.getAttribute("idReferece");
+40: 
+
+
+Stacktrace:] with root cause
+	java.lang.NullPointerException
+		at org.apache.jsp.ReturnCheckOutEVO_jsp._jspService(ReturnCheckOutEVO_jsp.java:181)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:477)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+03-Aug-2021 23:40:09.507 SEVERE [https-openssl-nio-8443-exec-480] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/eAyd] threw exception
+	java.io.IOException: An exception occurred processing [/ReturnCheckOutEVO.jsp] at line [90]
+
+87:         }
+88: 
+89:         try (BufferedReader bdata = new BufferedReader(
+90:                 new InputStreamReader(conUpdateReferencia.getInputStream(), "utf-8"))) {
+91:             String jsondata = new String();
+92:             InputStream inputStreamdata = conUpdateReferencia.getInputStream();
+93:             BufferedReader bufferedReaderdata = new BufferedReader(new InputStreamReader(inputStreamdata), 1);
+
+
+Stacktrace:
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:505)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:385)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:329)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.io.FileNotFoundException: https://ayd.sadm.gob.mx/AppiDv3/UpdateReferenciaSQLc2206b2b61aa471
+		at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1896)
+		at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+		at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+		at org.apache.jsp.ReturnCheckOutEVO_jsp._jspService(ReturnCheckOutEVO_jsp.java:234)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:477)
+		... 25 more

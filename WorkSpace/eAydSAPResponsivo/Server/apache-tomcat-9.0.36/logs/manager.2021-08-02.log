@@ -1,0 +1,4 @@
+02-Aug-2021 16:52:16.862 INFO [http-nio-8080-exec-335] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+02-Aug-2021 16:52:16.943 INFO [http-nio-8080-exec-336] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/eAyd'
+02-Aug-2021 16:52:32.495 INFO [http-nio-8080-exec-345] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+02-Aug-2021 16:52:32.511 INFO [http-nio-8080-exec-334] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/eAyd'
